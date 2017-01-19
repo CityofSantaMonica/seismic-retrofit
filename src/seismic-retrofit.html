@@ -1,0 +1,35 @@
+<div class="form">
+  <div class="form-group">
+    <label class="sr-only">Enter an address or APN</label>
+    <input type="text"
+           class="form-control"
+           placeholder="Enter an address or APN"
+           ng-model="$ctrl.q" />
+  </div>
+  <p>
+    <button type="button"
+            class="btn btn-primary"
+            ng-click="$ctrl.search()">Search</button>
+  </p>
+</div>
+
+<div ng-show="$ctrl.results.length > 0">
+  <table class="table table-bordered table-striped">
+    <thead>
+      <tr>
+        <td>Address</td>
+        <td>APN</td>
+        <td>Building Type</td>
+        <td>Number of Stories</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="result in $ctrl.results">
+        <td>{{ result.address }}</td>
+        <td>{{ result.apn }}</td>
+        <td>{{ result.type }}</td>
+        <td>{{ result.stories }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
