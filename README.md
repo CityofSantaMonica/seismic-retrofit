@@ -1,5 +1,5 @@
-#Seismic Retrofit Program
+# Seismic Retrofit Program
 
-Explore the City's Seismic Retrofit Program data.
+Explore the City's [Seismic Retrofit Program][1] data.
 
-[See it live](http://www.smgov.net/seismicretrofit).
+[1]: http://www.smgov.net/seismicretrofit
