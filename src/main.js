@@ -18,6 +18,7 @@
       var ctrl = this;
 
       ctrl.$onInit = function () {
+        ctrl.q = "";
         $http.get("data.json", { cache: true }).then(function (results) {
           ctrl.data = results.data;
         });
@@ -44,8 +45,8 @@
 
           if (uniqueMatches.length > 0) {
             ctrl.tableParams = new NgTableParams(
-              { sorting: { build_type: "asc" } },
-              { dataset: uniqueMatches }
+              { sorting: { build_type: "asc" }, count: uniqueMatches.length },
+              { dataset: uniqueMatches, counts: [] }
             );
             ctrl.show = true;
           }
@@ -53,14 +54,6 @@
             ctrl.msg = "No results matched your search";
           }
         }
-      };
-
-      ctrl.view = function () {
-        ctrl.tableParams = new NgTableParams(
-          { sorting: { building_type: "asc" } },
-          { dataset: ctrl.data }
-        );
-        ctrl.show = true;
       };
 
       var unique = function(records, property) {

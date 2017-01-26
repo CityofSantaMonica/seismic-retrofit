@@ -1,63 +1,26 @@
-<div class="row" style="margin-bottom: 1em">
-  <div class="col-md-4" style="margin-bottom: 1em">
-    <div class="input-group">
-      <input id="q"
-             type="text"
-             class="form-control"
-             placeholder="Enter a street name or APN"
-             ng-model="$ctrl.q" />
-      <span class="input-group-btn">
-        <button type="button" class="btn btn-primary" ng-click="$ctrl.search()">
-          <i class="glyphicon glyphicon-search"></i>
-          <span class="sr-only">Search</span>
-        </button>
-      </span>
-    </div>
-  </div>
-  <div class="col-md-8">
-    <button type="button"
-            class="btn btn-default"
-            ng-click="$ctrl.view()"
-            ng-hide="$ctrl.show">
-      View the complete list
-    </button>
-    <button type="button"
-            class="btn btn-default"
-            ng-click="$ctrl.reset()"
-            ng-show="$ctrl.show">
-      Clear
-    </button>
-    <div class="btn-group">
-      <button type="button"
-              class="btn btn-default dropdown-toggle"
-              data-toggle="dropdown"
-              aria-haspopup="true"
-              aria-expanded="false">
-        Download the data <span class="caret"></span>
-      </button>
-      <ul class="dropdown-menu">
-        <li>
-          <a href="#" ng-click="$ctrl.download('.xlsx')">Excel (.xlsx)</a>
-        </li>
-        <li>
-          <a href="#" ng-click="$ctrl.download('.csv')">CSV</a>
-        </li>
-        <li>
-          <a href="#" ng-click="$ctrl.download('.json')">JSON</a>
-        </li>
-      </ul>
-    </div>
-  </div>
+<div style="margin-bottom: 1em">
+  <input name="q"
+         type="text"
+         placeholder="Enter a street name or APN"
+         ng-model="$ctrl.q" />
+  <button type="button" ng-click="$ctrl.search()">
+    Search
+  </button>
+  <button type="button"
+          ng-click="$ctrl.reset()">
+    Clear
+  </button>
 </div>
 
-<p class="alert alert-info" ng-show="$ctrl.msg">{{ $ctrl.msg }}</p>
-
-<p ng-show="$ctrl.show">
-  Showing <span class="badge">{{ $ctrl.tableParams.total() }}</span> records
+<p ng-show="$ctrl.msg">
+  <em>{{ $ctrl.msg }}</em>
 </p>
 
-<table class="table table-bordered table-condensed table-striped"
-       ng-table="$ctrl.tableParams"
+<p ng-show="$ctrl.show">
+  Showing <strong>{{ $ctrl.tableParams.total() }}</strong> records
+</p>
+
+<table ng-table="$ctrl.tableParams"
        ng-show="$ctrl.show"
        show-filter="true">
   <tr ng-repeat="result in $data">
@@ -72,20 +35,10 @@
         sortable="'building_type'">
       {{ result.building_type }}
     </td>
-    <td title="'Stories (total)'"
+    <td title="'Stories'"
         filter="{ stories_total: 'text' }"
         sortable="'stories_total'">
       {{ result.stories_total }}
-    </td>
-    <td title="'Stories (above ground)'"
-        filter="{ stories_above: 'text' }"
-        sortable="'stories_above'">
-      {{ result.stories_above }}
-    </td>
-    <td title="'Stories (below ground)'"
-        filter="{ stories_below: 'text' }"
-        sortable="'stories_below'">
-      {{ result.stories_below }}
     </td>
     <td title="'Units'"
         filter="{ units: 'text' }"
@@ -94,3 +47,17 @@
     </td>
   </tr>
 </table>
+
+<h3>Download the Data</h3>
+
+<ul>
+  <li>
+    <a href="#" ng-click="$ctrl.download('.xlsx')">.xlsx</a>
+  </li>
+  <li>
+    <a href="#" ng-click="$ctrl.download('.csv')">.csv</a>
+  </li>
+  <li>
+    <a href="#" ng-click="$ctrl.download('.json')">.json</a>
+  </li>
+</ul>
