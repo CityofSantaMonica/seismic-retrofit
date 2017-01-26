@@ -52,6 +52,10 @@
 
 <p class="alert alert-info" ng-show="$ctrl.msg">{{ $ctrl.msg }}</p>
 
+<p ng-show="$ctrl.show">
+  Showing <span class="badge">{{ $ctrl.tableParams.total() }}</span> records
+</p>
+
 <table class="table table-bordered table-condensed table-striped"
        ng-table="$ctrl.tableParams"
        ng-show="$ctrl.show"
