@@ -4,8 +4,11 @@
   angular
     .module("seismic-retrofit", ["ngTable"])
     .component("seismicRetrofit", {
+      bindings: {
+        root: "@",
+      },
       controller: ["filterFilter", "$http", "NgTableParams", seismicRetrofit],
-      templateUrl: "seismic-retrofit.html"
+      template: '<ng-include src="$ctrl.templateUrl"></ng-include>'
     });
 
     function seismicRetrofit (filter, $http, NgTableParams) {
@@ -13,7 +16,8 @@
 
       ctrl.$onInit = function () {
         ctrl.q = "";
-        $http.get("data.json", { cache: true }).then(function (results) {
+        ctrl.templateUrl = ctrl.root + "seismic-retrofit.html";
+        $http.get(ctrl.root + "data.json", { cache: true }).then(function (results) {
           ctrl.data = results.data;
         });
       };
