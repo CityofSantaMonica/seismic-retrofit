@@ -4,17 +4,11 @@
   angular
     .module("seismic-retrofit", ["ngTable"])
     .component("seismicRetrofit", {
-      controller: [
-        "filterFilter",
-        "$http",
-        "$window",
-        "NgTableParams",
-        seismicRetrofit
-      ],
+      controller: ["filterFilter", "$http", "NgTableParams", seismicRetrofit],
       templateUrl: "seismic-retrofit.html"
     });
 
-    function seismicRetrofit (filter, $http, $window, NgTableParams) {
+    function seismicRetrofit (filter, $http, NgTableParams) {
       var ctrl = this;
 
       ctrl.$onInit = function () {
@@ -22,10 +16,6 @@
         $http.get("data.json", { cache: true }).then(function (results) {
           ctrl.data = results.data;
         });
-      };
-
-      ctrl.download = function(ext) {
-        $window.open("data" + ext);
       };
 
       ctrl.reset = function() {
