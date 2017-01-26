@@ -67,11 +67,30 @@
     <td title="'APN'" filter="{ apn: 'text' }" sortable="'apn'">
       {{ result.apn }}
     </td>
-    <td title="'Building Type'" filter="{ type: 'text' }" sortable="'type'">
-      {{ result.type }}
+    <td title="'Building Type'"
+        filter="{ building_type: 'text' }"
+        sortable="'building_type'">
+      {{ result.building_type }}
     </td>
-    <td title="'Stories'" filter="{ stories: 'number' }" sortable="'stories'">
-      {{ result.stories }}
+    <td title="'Stories (total)'"
+        filter="{ stories_total: 'text' }"
+        sortable="'stories_total'">
+      {{ result.stories_total }}
+    </td>
+    <td title="'Stories (above ground)'"
+        filter="{ stories_above: 'text' }"
+        sortable="'stories_above'">
+      {{ result.stories_above }}
+    </td>
+    <td title="'Stories (below ground)'"
+        filter="{ stories_below: 'text' }"
+        sortable="'stories_below'">
+      {{ result.stories_below }}
+    </td>
+    <td title="'Units'"
+        filter="{ units: 'text' }"
+        sortable="'units'">
+      {{ result.units }}
     </td>
   </tr>
 </table>
