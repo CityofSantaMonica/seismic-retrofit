@@ -40,8 +40,17 @@
         if (ctrl.q !== "") {
           ctrl.show = false;
 
-          var addressMatches = filter(ctrl.data, { address: ctrl.q });
-          var apnMatches = filter(ctrl.data, { apn: ctrl.q });
+          var q = ctrl.q.replace(/[^\w\s]/g, "")
+                        .replace(/avenue/i, "ave")
+                        .replace(/boulevard/i, "blvd")
+                        .replace(/court/i, "ct")
+                        .replace(/drive/i, "dr")
+                        .replace(/place/i, "pl")
+                        .replace(/street(?!\spromenade)/i, "st")
+                        .replace(/terrace/i, "ter");
+
+          var addressMatches = filter(ctrl.data, { address: q });
+          var apnMatches = filter(ctrl.data, { apn: q });
           var uniqueMatches = unique(addressMatches.concat(apnMatches), "apn");
 
           if (uniqueMatches.length > 0) {
