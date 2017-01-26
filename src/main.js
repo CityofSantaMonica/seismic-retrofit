@@ -3,6 +3,12 @@
 
   angular
     .module("seismic-retrofit", ["ngTable"])
+    .config(function($sceDelegateProvider){
+      $sceDelegateProvider.resourceUrlWhitelist([
+        "self",
+        "https://cityofsantamonica.github.io/**"
+      ]);
+    })
     .component("seismicRetrofit", {
       bindings: {
         root: "@",
