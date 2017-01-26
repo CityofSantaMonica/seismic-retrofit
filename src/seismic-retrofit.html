@@ -2,7 +2,8 @@
   <input name="q"
          type="text"
          placeholder="Enter a street name or APN"
-         ng-model="$ctrl.q" />
+         ng-model="$ctrl.q"
+         ng-keypress="$ctrl.keypress($event)"/>
   <button type="button" ng-click="$ctrl.search()">
     Search
   </button>

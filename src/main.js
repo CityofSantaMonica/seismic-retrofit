@@ -22,6 +22,13 @@
         });
       };
 
+      ctrl.keypress = function(event) {
+        if (event.keyCode === 13) {
+          event.preventDefault();
+          ctrl.search();
+        }
+      };
+
       ctrl.reset = function() {
         ctrl.msg = "";
         ctrl.q = "";
