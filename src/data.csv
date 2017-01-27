@@ -13,7 +13,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 2618 MONTANA AVE,4266013083,Soft Story,2,2,0,3,
 924 PRINCETON ST,4266014021,Soft Story,2,2,0,1,
 1123 PRINCETON ST,4266016043,Soft Story,2,2,0,4,
-2721 WILSHIRE BLVD (2723),4266016050,Unreinforced Masonry,1,,,,
+2721 WILSHIRE BLVD (2723 WILSHIRE BLVD),4266016050,Unreinforced Masonry,1,,,,
 1249 FRANKLIN ST,4267001010,Soft Story,2,2,0,8,
 1223 BERKELEY ST,4267002016,Soft Story,2,2,0,6,
 1247 BERKELEY ST,4267002021,Soft Story,2,2,0,6,
@@ -54,7 +54,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1243 YALE ST (1237-1243 YALE ST),4267004058,Soft Story,3,3,0,14,
 1243 YALE ST (1237-1243 YALE ST),4267004059,Soft Story,3,3,0,14,
 1243 YALE ST (1237-1243 YALE ST),4267004060,Soft Story,3,3,0,14,
-2828 WILSHIRE BLVD (2838),4267005009,Concrete Tilt-Up,,,,,
+2828 WILSHIRE BLVD (2838 WILSHIRE BLVD),4267005009,Concrete Tilt-Up,,,,,
 1240 YALE ST,4267005015,Soft Story,3,3,0,68,
 2803 ARIZONA AVE,4267005016,Soft Story,2,2,0,13,
 2705 ARIZONA AVE (2705 ARIZONA AVE/1263 PRINCETON ST),4267006003,Soft Story,3,2,0,5,
@@ -91,7 +91,6 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1335 26TH ST,4267008011,Soft Story,2,2,0,5,
 1333 26TH ST,4267008012,Soft Story,2,2,0,3,
 2618 ARIZONA AVE,4267008020,Soft Story,2,2,0,4,
-1110 20TH ST,4267008021,Soft Story,2,2,0,6,
 1306 PRINCETON ST,4267008023,Soft Story,2,2,0,3,
 1320 PRINCETON ST,4267008072,Soft Story,3,3,0,22,
 1320 PRINCETON ST,4267008073,Soft Story,3,3,0,22,
@@ -286,7 +285,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1421 PRINCETON ST,4267020015,Soft Story,2,2,0,4,
 1425 PRINCETON ST,4267020016,Soft Story,2,2,0,6,
 1443 PRINCETON ST,4267020020,Soft Story,2,2,0,5,
-2630 SANTA MONICA BLVD (2632),4267021001,Unreinforced Masonry,N/A,,,,
+2630 SANTA MONICA BLVD (2632 SANTA MONICA BLVD),4267021001,Unreinforced Masonry,N/A,,,,
 2610 SANTA MONICA BLVD (2610-2612 SANTA MONICA BLVD),4267021005,Soft Story,2,2,0,0,
 1425 26TH ST,4267021009,Soft Story,2,2,0,2,
 1445 26TH ST,4267021012,Soft Story,2,2,0,7,
@@ -321,12 +320,12 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1533 PRINCETON ST,4267023057,Soft Story,2,2,0,6,
 1533 PRINCETON ST,4267023058,Soft Story,2,2,0,6,
 1533 PRINCETON ST,4267023059,Soft Story,2,2,0,6,
-2814 BROADWAY (2818),4267024002,Soft Story,2,2,0,3,
+2814 BROADWAY (2818 BROADWAY),4267024002,Soft Story,2,2,0,3,
 1505 HARVARD ST (1505-1507 HARVARD ST),4267024005,Soft Story,2,2,0,8,
 1527 HARVARD ST,4267024013,Soft Story,2,2,0,8,
 1532 YALE ST,4267024016,Soft Story,2,2,0,3,
 2821 COLORADO AVE,4267024027,Soft Story,2,2,0,6,
-1548 YALE ST (1548 YALE ST/2835 COLORADO),4267024030,Soft Story,2,2,0,5,
+1548 YALE ST (1548 YALE ST/2835 COLORADO AVE),4267024030,Soft Story,2,2,0,5,
 1502 YALE ST (1502-1506 YALE ST),4267024031,Soft Story,2,2,0,10,
 2815 COLORADO AVE,4267024032,Soft Story,2,2,0,3,
 1517 HARVARD ST,4267024051,Soft Story,2,2,0,9,
@@ -438,7 +437,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 2250 30TH ST,4270005045,Soft Story,2,2,0,2.5,
 2305 31ST ST,4270007005,Soft Story,2,2,0,5,
 2308 32ND ST,4270007043,Soft Story,2,2,0,7,
-2329 33RD ST (2331),4270009006,Soft Story,2,2,0,3,
+2329 33RD ST (2331 33RD ST),4270009006,Soft Story,2,2,0,3,
 2410 34TH ST,4270009031,Soft Story,2,2,0,4,
 2334 34TH ST,4270009036,Soft Story,2,2,0,4,
 2429 34TH ST,4270010008,Soft Story,2,2,0,4,
@@ -511,7 +510,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 2621 CENTINELA AVE,4270017141,Soft Story,3,3,0,22,
 2665 32ND ST (2665-2667 32ND ST),4270019051,Soft Story,2,2,0,6,
 3007 OCEAN PARK BLVD ,4270021051,Unreinforced Masonry,1,,,,
-3011 OCEAN PARK BLVD (3013),4270021051,Unreinforced Masonry,1,,,,
+3011 OCEAN PARK BLVD (3013 OCEAN PARK BLVD),4270021051,Unreinforced Masonry,1,,,,
 2666 31ST ST,4270021065,Soft Story,3,3,0,10,
 2653 30TH ST (2653-2655 30TH ST),4270021072,Soft Story,2,2,0,7,
 2666 31ST ST,4270021073,Soft Story,3,3,0,10,
@@ -566,7 +565,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 2470 OCEAN PARK BLVD,4272023015,Soft Story,2,2,0,5,
 2408 OCEAN PARK BLVD,4272023031,Soft Story,2,2,0,10,
 2410 OCEAN PARK BLVD,4272023036,Soft Story,3,3,0,7,
-3223 DONALD DOUGLAS LOOP S,4272026902,Steel Moment Frame,2,,,0,
+3223 DONALD DOUGLAS LOOP SOUTH,4272026902,Steel Moment Frame,2,,,0,
 2716 OCEAN PARK BLVD,4272029005,Steel Moment Frame,3,,,0,
 2850 OCEAN PARK BLVD,4272029008,Steel Moment Frame,3,,,0,
 2900 OCEAN PARK BLVD,4272029008,Steel Moment Frame,2,,,0,
@@ -578,7 +577,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 2901 28TH ST,4272029023,Steel Moment Frame,3,,,0,
 3340 OCEAN PARK BLVD,4272029027,Steel Moment Frame,3,,,0,
 2950 31ST ST,4272031001,Steel Moment Frame,3,,,0,
-2951 DONALD DOUGLAS LOOP N,4272031002,Steel Moment Frame,3,,,0,
+2951 DONALD DOUGLAS LOOP NORTH,4272031002,Steel Moment Frame,3,,,0,
 2800 28TH ST,4272031005,Steel Moment Frame,3,,,0,
 2450 ASHLAND AVE,4272031908,Soft Story,1,0,0,0,
 2116 20TH ST,4273002003,Soft Story,2,2,0,6,
@@ -817,12 +816,12 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1433 19TH ST,4275009015,Soft Story,2,2,0,4,
 1423 19TH ST,4275009017,Soft Story,2,2,0,6,
 1428 19TH ST,4275010006,Soft Story,2,2,0,5,
-1827 BROADWAY (1819) ,4275010012,Unreinforced Masonry,1,,,,
+1827 BROADWAY (1819 BROADWAY),4275010012,Unreinforced Masonry,1,,,,
 1423 18TH ST,4275010020,Soft Story,3,2,1,6,
 1417 18TH ST,4275010021,Soft Story,3,2,1,6,
 1417 17TH ST,4275011022,Soft Story,2,2,0,6,
 1702 SANTA MONICA BLVD,4275011025,Non-Ductile Concrete,2,,,0,Commercial
-1721 BROADWAY (1721-31),4275011027,Unreinforced Masonry,1,,,,
+1721 BROADWAY (1721-1731 BROADWAY),4275011027,Unreinforced Masonry,1,,,,
 1524 18TH ST,4275012029,Soft Story,2,2,0,6,
 1528 19TH ST,4275013007,Soft Story,2,2,0,6,
 1533 19TH ST,4275014012,Soft Story,2,2,0,5,
@@ -832,9 +831,9 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1644 CLOVERFIELD BLVD,4275020033,Non-Ductile Concrete,7,,,0,Parking Garage
 1920 COLORADO AVE,4275021007,Concrete Tilt-Up,,,,,
 1674 20TH ST,4275025008,Unreinforced Masonry,1,,,,
-1700 22ND ST (1704),4275030010,Concrete Tilt-Up,,,,,
+1700 22ND ST (1704 22ND ST),4275030010,Concrete Tilt-Up,,,,,
 2100 PENNSYLVANIA AVE (1701 21ST ST),4275030011,Concrete Tilt-Up,,,,,
-1730 22ND ST (1728),4275031018,Concrete Tilt-Up,,,,,
+1730 22ND ST (1728 22ND ST),4275031018,Concrete Tilt-Up,,,,,
 2211 MICHIGAN AVE,4275032009,Concrete Tilt-Up,,,,,
 1721 22ND ST,4275032805,Concrete Tilt-Up,,,,,
 1115 25TH ST,4276001007,Soft Story,2,2,0,5,
@@ -873,6 +872,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1130 20TH ST,4276008017,Soft Story,2,2,0,9,
 1128 20TH ST,4276008018,Soft Story,2,2,0,10,
 1120 20TH ST,4276008019,Soft Story,2,2,0,12,
+1110 20TH ST,4276008021,Soft Story,2,2,0,6,
 1102 20TH ST,4276008022,Soft Story,2,2,0,8,
 1115 19TH ST,4276008025,Soft Story,2,2,0,11,
 1115 19TH ST,4276008026,Soft Story,2,2,0,11,
@@ -896,7 +896,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1135 18TH ST (1133-1135 18TH ST),4276009007,Soft Story,2,2,0,3,
 1122 19TH ST,4276009014,Soft Story,2,2,0,7,
 1128 19TH ST,4276009015,Soft Story,2,2,0,7,
-1801 WILSHIRE BLVD (1801 -1831),4276009036,Steel Moment Frame,6,,,0,
+1801 WILSHIRE BLVD (1801-1831 WILSHIRE BLVD),4276009036,Steel Moment Frame,6,,,0,
 1130 18TH ST (1130-1132 18TH ST),4276010008,Soft Story,2,2,0,3,
 1710 CALIFORNIA AVE,4276010011,Soft Story,2,2,0,6,
 1111 17TH ST,4276010013,Soft Story,2,2,0,6,
@@ -978,7 +978,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1228 24TH ST,4276017009,Soft Story,2,2,0,4,
 1249 23RD ST,4276017022,Soft Story,2,2,0,4,
 1223 23RD ST,4276017029,Soft Story,2,2,0,4,
-2406 WILSHIRE BLVD (2408),4276017043,Unreinforced Masonry,1,,,,
+2406 WILSHIRE BLVD (2408 WILSHIRE BLVD),4276017043,Unreinforced Masonry,1,,,,
 2414 WILSHIRE BLVD (2414-2416 WILSHIRE BLVD),4276017045,Soft Story,2,2,0,0,
 1226 CHELSEA AVE,4276017050,Soft Story,2,2,0,4,
 1227 24TH ST,4276017082,Soft Story,2,2,0,4,
@@ -1026,7 +1026,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1301 20TH ST,4276027017,Steel Moment Frame,6,,,0,
 1339 20TH ST,4276027018,Non-Ductile Concrete,2,,,0,Clinic
 1916 ARIZONA AVE,4276028001,Soft Story,2,2,0,9,
-1905 SANTA MONICA BLVD (1909),4276028013,Unreinforced Masonry,1,,,,
+1905 SANTA MONICA BLVD (1909 SANTA MONICA BLVD),4276028013,Unreinforced Masonry,1,,,,
 1343 19TH ST,4276028016,Soft Story,2,2,0,6,
 1307 19TH ST,4276028023,Soft Story,2,2,0,7,
 1902 ARIZONA AVE,4276028024,Soft Story,2,2,0,8,
@@ -1539,8 +1539,8 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1131 14TH ST,4281011016,Soft Story,3,3,0,8,
 1127 14TH ST,4281011017,Soft Story,2,2,0,5,
 1121 14TH ST,4281011018,Soft Story,2,2,0,4,
-1417 WILSHIRE BLVD (1423),4281011025,Unreinforced Masonry,1,,,,
-1411 WILSHIRE BLVD (1415),4281011026,Unreinforced Masonry,1,,,,
+1417 WILSHIRE BLVD (1423 WILSHIRE BLVD),4281011025,Unreinforced Masonry,1,,,,
+1411 WILSHIRE BLVD (1415 WILSHIRE BLVD),4281011026,Unreinforced Masonry,1,,,,
 1401 WILSHIRE BLVD,4281011028,Unreinforced Masonry,1,,,,
 1115 14TH ST (1111-1115 14TH ST),4281011029,Soft Story,2,2,0,22,
 1422 CALIFORNIA AVE,4281011043,Soft Story,3,3,0,5,
@@ -1958,7 +1958,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 825 WASHINGTON AVE,4281033011,Soft Story,3,3,0,16,
 927 LINCOLN BLVD (927-929 LINCOLN BLVD),4281033018,Soft Story,2,2,0,2,
 917 LINCOLN BLVD,4281033020,Soft Story,2,2,0,6,
-806 IDAHO AVE (802-812 IDAHO AVE/903 LINCOLN),4281033023,Soft Story,3,2,1,6,
+806 IDAHO AVE (802-812 IDAHO AVE/903 LINCOLN BLVD),4281033023,Soft Story,3,2,1,6,
 943 LINCOLN BLVD,4281033056,Soft Story,3,3,0,6,
 943 LINCOLN BLVD,4281033057,Soft Story,3,3,0,6,
 943 LINCOLN BLVD,4281033058,Soft Story,3,3,0,6,
@@ -1997,9 +1997,9 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1143 LINCOLN BLVD,4281035013,Soft Story,3,3,0,8,
 1123 LINCOLN BLVD,4281035017,Soft Story,3,3,0,10,
 1111 LINCOLN BLVD,4281035019,Soft Story,3,2,0,10,
-815 WILSHIRE BLVD (815-823),4281035024,Unreinforced Masonry,3,,,,
+815 WILSHIRE BLVD (815-823 WILSHIRE BLVD),4281035024,Unreinforced Masonry,3,,,,
 1147 LINCOLN BLVD,4281035026,Soft Story,3,3,0,10,
-1142 9TH ST,4281035028,Soft Story,3,2,0,20,
+1142 9TH ST,4281035036,Soft Story,3,2,0,20,
 1130 9TH ST ,4281035045,Soft Story,3,2,0,10,
 1130 9TH ST ,4281035046,Soft Story,3,2,0,10,
 1130 9TH ST ,4281035047,Soft Story,3,2,0,10,
@@ -2061,7 +2061,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 900 WILSHIRE BLVD,4282008071,Steel Moment Frame,3,,,0,
 1228 9TH ST,4282009006,Soft Story,3,3,0,10,
 1236 9TH ST,4282009007,Soft Story,3,3,0,16,
-1231 LINCOLN BLVD (1233),4282009017,Unreinforced Masonry,2,,,,
+1231 LINCOLN BLVD (1233 LINCOLN BLVD),4282009017,Unreinforced Masonry,2,,,,
 1254 9TH ST,4282009025,Soft Story,3,3,0,11,
 1264 9TH ST,4282009026,Soft Story,3,3,0,11,
 1218 9TH ST,4282009032,Soft Story,3,3,0,12,
@@ -2113,7 +2113,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1323 11TH ST,4282013018,Soft Story,2,2,0,10,
 1315 11TH ST,4282013020,Soft Story,2,2,0,11,
 1120 ARIZONA AVE (1120 ARIZONA AVE/1310-1312 12TH ST),4282013023,Soft Story,3,3,0,20,
-1127 SANTA MONICA BLVD (1117),4282013024,Unreinforced Masonry,2,,,,
+1127 SANTA MONICA BLVD (1117 SANTA MONICA BLVD),4282013024,Unreinforced Masonry,2,,,,
 1319 11TH ST,4282013026,Soft Story,2,2,0,11,
 1319 11TH ST,4282013027,Soft Story,2,2,0,11,
 1319 11TH ST,4282013028,Soft Story,2,2,0,11,
@@ -2130,7 +2130,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1322 EUCLID ST,4282014005,Soft Story,2,2,0,11,
 1328 EUCLID ST,4282014006,Soft Story,2,2,0,11,
 1334 EUCLID ST,4282014007,Soft Story,2,2,0,10,
-1221 SANTA MONICA BLVD (1229),4282014012,Unreinforced Masonry,1,,,,
+1221 SANTA MONICA BLVD (1229 SANTA MONICA BLVD),4282014012,Unreinforced Masonry,1,,,,
 1327 12TH ST,4282014018,Soft Story,2,2,0,10,
 1302 EUCLID ST,4282014028,Soft Story,3,3,0,18,
 1317 12TH ST,4282014030,Soft Story,3,3,0,10,
@@ -2171,14 +2171,14 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1501 SANTA MONICA BLVD,4282017013,Unreinforced Masonry,1,,,,
 1508 ARIZONA AVE,4282017026,Non-Ductile Concrete,3,,,0,Commercial
 1307 15TH ST,4282017034,Soft Story,2,2,0,11,
-1631 SANTA MONICA BLVD (1623),4282018011,Unreinforced Masonry,"1, portions are 2",,,,
+1631 SANTA MONICA BLVD (1623 SANTA MONICA BLVD),4282018011,Unreinforced Masonry,"1, portions are 2",,,,
 1311 16TH ST,4282018900,Non-Ductile Concrete,4,,,0,Parking Garage
 1412 17TH ST,4282019003,Soft Story,2,2,0,12,
 1421 16TH ST (1419-1421 16TH ST),4282019020,Soft Story,3,3,0,8,
 1432 16TH ST,4282020007,Soft Story,2,2,0,10,
 1427 15TH ST,4282020019,Soft Story,3,3,0,10,
 1423 15TH ST,4282020020,Soft Story,2,2,0,11,
-1434 SANTA MONICA BLVD (1430),4282021001,Unreinforced Masonry,3,,,,
+1434 SANTA MONICA BLVD (1430 SANTA MONICA BLVD),4282021001,Unreinforced Masonry,3,,,,
 1424 15TH ST,4282021005,Soft Story,2,2,0,10,
 1428 15TH ST,4282021006,Soft Story,3,3,0,11,
 1453 14TH ST  (1409 BROADWAY),4282021013,Unreinforced Masonry,1,,,,
@@ -2198,7 +2198,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1428 11TH ST (1428-1424 11TH ST),4282025007,Soft Story,2,2,0,10,
 1437 10TH ST,4282025019,Soft Story,2,2,0,5,
 1002 SANTA MONICA BLVD,4282025027,Unreinforced Masonry,2,,,,
-920 SANTA MONICA BLVD (920-928),4282026001,Unreinforced Masonry,3,,,,
+920 SANTA MONICA BLVD (920-928 SANTA MONICA BLVD),4282026001,Unreinforced Masonry,3,,,,
 1428 10TH ST,4282026005,Soft Story,2,2,0,7,
 1444 10TH ST,4282026008,Soft Story,2,2,0,4,
 1455 9TH ST,4282026012,Soft Story,2,2,0,25,
@@ -2208,7 +2208,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1450 10TH ST,4282026022,Steel Moment Frame,4,,,0,
 1432 9TH ST,4282027007,Soft Story,2,2,0,10,
 1438 9TH ST,4282027034,Soft Story,2,2,0,0,
-804 BROADWAY (802),4282028017,Unreinforced Masonry,1,,,,
+804 BROADWAY (802 BROADWAY),4282028017,Unreinforced Masonry,1,,,,
 1518 10TH ST,4282029003,Soft Story,3,3,0,11,
 1534 10TH ST,4282029006,Soft Story,3,3,0,10,
 1541 9TH ST,4282029011,Soft Story,2,2,0,4,
@@ -2229,7 +2229,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1511 12TH ST,4282032027,Soft Story,2,2,0,2,
 1511 12TH ST,4282032028,Soft Story,2,2,0,4,
 1518 EUCLID ST (1518-1522 EUCLID ST),4282032031,Soft Story,3,3,0,20,
-1549 12TH ST (1545),4282032032,Unreinforced Masonry,1,,,,
+1549 12TH ST (1545 12TH ST),4282032032,Unreinforced Masonry,1,,,,
 1543 EUCLID ST,4282033015,Soft Story,2,2,0,10,
 1514 14TH ST (1514-1518 14TH ST),4282033021,Soft Story,3,3,0,36,
 1525 EUCLID ST,4282033900,Unreinforced Masonry,2,,,,
@@ -2239,7 +2239,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1528 16TH ST,4282035006,Soft Story,2,2,0,3,
 1524 17TH ST,4282036005,Soft Story,2,2,0,7,
 1637 LINCOLN BLVD,4283002006,Concrete Tilt-Up,,,,,
-902 COLORADO AVE (902-926),4283002900,Concrete Tilt-Up,,,,,
+902 COLORADO AVE (902-926 COLORADO AVE),4283002900,Concrete Tilt-Up,,,,,
 1661 LINCOLN BLVD,4283003012,Non-Ductile Concrete,4,,,0,Commercial
 929 OLYMPIC BLVD,4283004002,Concrete Tilt-Up,,,,,
 1643 10TH ST,4283005009,Non-Ductile Concrete,1,,,0,Commercial
@@ -2480,8 +2480,8 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 650 KENSINGTON RD,4287004010,Soft Story,3,3,0,4,
 2418 7TH ST,4287004013,Soft Story,3,3,0,7,
 2441 BEVERLEY AVE,4287004022,Soft Story,3,3,0,19,
-611 OCEAN PARK BLVD (611 OCEAN PARK BLVD/2550 BEVERLY AVE),4287005003,Soft Story,2,2,0,8,
-2534 BEVERLY AVE,4287005007,Soft Story,2,2,0,4,
+611 OCEAN PARK BLVD (611 OCEAN PARK BLVD/2550 BEVERLEY AVE),4287005003,Soft Story,2,2,0,8,
+2534 BEVERLEY AVE,4287005007,Soft Story,2,2,0,4,
 2428 BEVERLEY AVE,4287005012,Soft Story,2,2,0,4,
 2411 6TH ST,4287005015,Soft Story,3,3,0,1,
 2450 BEVERLEY AVE,4287005017,Soft Story,2,2,0,6,
@@ -2770,7 +2770,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 3016 RUSKIN ST,4287031034,Soft Story,2,2,0,1,
 730 MARINE ST,4287034032,Soft Story,3,3,0,1,
 728 MARINE ST,4287034033,Soft Story,3,3,0,1,
-668 MARINE ST (666-672),4287035001,Unreinforced Masonry,2,,,,
+668 MARINE ST (666-672 MARINE ST),4287035001,Unreinforced Masonry,2,,,,
 639 NAVY ST,4287035012,Soft Story,2,2,0,3,
 631 NAVY ST,4287035021,Soft Story,2,2,0,4,
 642 MARINE ST,4287035023,Soft Story,2,2,0,4,
@@ -2809,21 +2809,21 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 2601 MAIN ST,4288002902,Unreinforced Masonry,1,,,,
 2808 2ND ST,4288003015,Soft Story,2,2,0,1,
 2810 2ND ST,4288003016,Soft Story,2,2,0,1,
-2821 MAIN ST (2815-2821),4288003023,Unreinforced Masonry,2,,,,
+2821 MAIN ST (2815-2821 MAIN ST),4288003023,Unreinforced Masonry,2,,,,
 2807 MAIN ST,4288003029,Unreinforced Masonry,1,,,,
 2711 MAIN ST,4288003041,Unreinforced Masonry,1,,,,
 2709 MAIN ST,4288003042,Unreinforced Masonry,1,,,,
-2701 MAIN ST (2703) (210 HILL ST) ,4288003043,Unreinforced Masonry,1,,,,
-2909 MAIN ST (2907-2915),4288004023,Unreinforced Masonry,1,,,,
-2905 MAIN ST (2901),4288004024,Unreinforced Masonry,1,,,,
+2701 MAIN ST (2703 MAIN ST/210 HILL ST),4288003043,Unreinforced Masonry,1,,,,
+2909 MAIN ST (2907-2915 MAIN ST),4288004023,Unreinforced Masonry,1,,,,
+2905 MAIN ST (2901 MAIN ST),4288004024,Unreinforced Masonry,1,,,,
 2941 MAIN ST,4288004027,Unreinforced Masonry,2,,,,
 3005 MAIN ST,4288005015,Steel Moment Frame,5,,,0,
 3015 MAIN ST,4288005015,Steel Moment Frame,4,,,0,
-2934 MAIN ST (2936),4288008005,Unreinforced Masonry,1 with mezzanine,,,,
-2942 MAIN ST (181 PIER AVE) ,4288008007,Unreinforced Masonry,2 w/tower,,,,
-171 PIER AVE (169-177),4288008008,Unreinforced Masonry,2,,,,
+2934 MAIN ST (2936 MAIN ST),4288008005,Unreinforced Masonry,1 with mezzanine,,,,
+2942 MAIN ST (181 PIER AVE),4288008007,Unreinforced Masonry,2 w/tower,,,,
+171 PIER AVE (169-177 PIER AVE),4288008008,Unreinforced Masonry,2,,,,
 2900 MAIN ST,4288009001,Unreinforced Masonry,2,,,,
-2804 MAIN ST (2802-2808),4288010005,Unreinforced Masonry,2,,,,
+2804 MAIN ST (2802-2808 MAIN ST),4288010005,Unreinforced Masonry,2,,,,
 2702 MAIN ST ,4288011016,Unreinforced Masonry,1,,,,
 2724 MAIN ST,4288011017,Unreinforced Masonry,1,,,,
 2654 MAIN ST,4288012001,Unreinforced Masonry,2,,,,
@@ -2912,10 +2912,10 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 618 PICO BLVD,4289003029,Soft Story,2,2,0,10,
 615 PICO PL,4289003041,Soft Story,2,2,0,2,
 625 PICO PL,4289003043,Soft Story,2,2,0,3,
-1900 LINCOLN BLVD (1900-1916),4289003045,Unreinforced Masonry,1,,,,
+1900 LINCOLN BLVD (1900-1916 LINCOLN BLVD),4289003045,Unreinforced Masonry,1,,,,
 649 PACIFIC ST,4289005008,Soft Story,2,2,0,5,
 643 PACIFIC ST,4289005009,Soft Story,2,2,0,6,
-647 STRAND ST (647-647 1/2 STRAND ST),4289005024,Soft Story,2,2,0,2,
+647 STRAND ST (647-1/2 STRAND ST),4289005024,Soft Story,2,2,0,2,
 2117 6TH ST,4289005036,Soft Story,2,2,0,3,
 612 PACIFIC ST,4289005038,Soft Story,3,3,0,7,
 627 STRAND ST (627-631 STRAND ST),4289005045,Soft Story,3,3,0,8,
@@ -2934,7 +2934,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 631 PACIFIC ST,4289005088,Soft Story,2,2,0,4,
 631 PACIFIC ST,4289005089,Soft Story,2,2,0,4,
 631 PACIFIC ST,4289005090,Soft Story,2,2,0,4,
-2321 6TH ST (2321 6TH ST/2414 BEVERLY AVE),4289006003,Soft Story,2,2,0,3,
+2321 6TH ST (2321 6TH ST/2414 BEVERLEY AVE),4289006003,Soft Story,2,2,0,3,
 601 HOLLISTER AVE,4289006005,Soft Story,2,1,0,5,
 2319 6TH ST,4289006012,Soft Story,3,3,0,10,
 608 STRAND ST (608-610 STRAND ST),4289006014,Soft Story,2,2,0,15,
@@ -3015,26 +3015,26 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 2311 4TH ST,4289007097,Soft Story,2,2,0,61,
 2311 4TH ST,4289007098,Soft Story,2,2,0,61,
 2311 4TH ST,4289007099,Soft Story,2,2,0,61,
-"2309 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007101,Soft Story,2,2,0,20,
-"2309 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007102,Soft Story,2,2,0,20,
-"2309 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007103,Soft Story,2,2,0,20,
-"2309 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007104,Soft Story,2,2,0,20,
-"2310 6TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007105,Soft Story,2,2,0,20,
-"2310 6TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007106,Soft Story,2,2,0,20,
-"2310 6TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007107,Soft Story,2,2,0,20,
-"2310 6TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007108,Soft Story,2,2,0,20,
-"2312 6TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007109,Soft Story,2,2,0,20,
-"2312 6TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007110,Soft Story,2,2,0,20,
-"2310 6TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007111,Soft Story,2,2,0,20,
-"2312 6TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007112,Soft Story,2,2,0,20,
-"2313 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007113,Soft Story,2,2,0,20,
-"2313 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007114,Soft Story,2,2,0,20,
-"2313 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007115,Soft Story,2,2,0,20,
-"2313 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007116,Soft Story,2,2,0,20,
-"2317 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007117,Soft Story,2,2,0,20,
-"2317 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007118,Soft Story,2,2,0,20,
-"2317 5TH ST (2309-2317 5TH, 2310-2312 6TH)",4289007119,Soft Story,2,2,0,20,
-2317 5TH ST (2309-2317 5TH/2310-2312 6TH),4289007120,Soft Story,2,2,0,20,
+2309 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007101,Soft Story,2,2,0,20,
+2309 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007102,Soft Story,2,2,0,20,
+2309 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007103,Soft Story,2,2,0,20,
+2309 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007104,Soft Story,2,2,0,20,
+2310 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007105,Soft Story,2,2,0,20,
+2310 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007106,Soft Story,2,2,0,20,
+2310 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007107,Soft Story,2,2,0,20,
+2310 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007108,Soft Story,2,2,0,20,
+2312 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007109,Soft Story,2,2,0,20,
+2312 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007110,Soft Story,2,2,0,20,
+2310 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007111,Soft Story,2,2,0,20,
+2312 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007112,Soft Story,2,2,0,20,
+2313 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007113,Soft Story,2,2,0,20,
+2313 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007114,Soft Story,2,2,0,20,
+2313 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007115,Soft Story,2,2,0,20,
+2313 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007116,Soft Story,2,2,0,20,
+2317 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007117,Soft Story,2,2,0,20,
+2317 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007118,Soft Story,2,2,0,20,
+2317 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007119,Soft Story,2,2,0,20,
+2317 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST),4289007120,Soft Story,2,2,0,20,
 520 STRAND ST (2302-06 6TH ST/520 STRAND ST),4289007122,Soft Story,3,3,0,10,
 520 STRAND ST (2302-06 6TH ST/520 STRAND ST),4289007123,Soft Story,3,3,0,10,
 520 STRAND ST (2302-06 6TH ST/520 STRAND ST),4289007124,Soft Story,3,3,0,10,
@@ -3121,11 +3121,11 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 2216 4TH ST,4289014037,Soft Story,3,3,0,8,
 2328 3RD ST,4289015001,Non-Ductile Concrete,4,,,17,Residential
 2326 2ND ST,4289015026,Soft Story,2,2,0,5,
-2214 3RD ST (2210),4289016027,Soft Story,4,4,0,58,
+2214 3RD ST (2210 3RD ST),4289016027,Soft Story,4,4,0,58,
 208 BICKNELL AVE,4289017003,Unreinforced Masonry,1,,,,
 236 BICKNELL AVE,4289017009,Soft Story,2,2,0,12,
 246 BICKNELL AVE,4289017019,Soft Story,2,2,0,7,
-2003 MAIN ST (2001-2011),4289018001,Unreinforced Masonry,1,,,,
+2003 MAIN ST (2001-2011 MAIN ST),4289018001,Unreinforced Masonry,1,,,,
 2015 MAIN ST,4289018003,Unreinforced Masonry,1,,,,
 236 BAY ST,4289018006,Soft Story,2,2,0,12,
 230 BAY ST,4289018007,Soft Story,2,2,0,12,
@@ -3158,10 +3158,10 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 229 BICKNELL AVE,4289018051,Soft Story,4,4,0,27,
 229 BICKNELL AVE,4289018052,Soft Story,4,4,0,27,
 229 BICKNELL AVE,4289018053,Soft Story,4,4,0,27,
-1921 MAIN ST (1921-29),4289019006,Unreinforced Masonry,1,,,,
+1921 MAIN ST (1921-1929 MAIN ST),4289019006,Unreinforced Masonry,1,,,,
 225 BAY ST,4289019009,Soft Story,2,2,0,7,
 1901 MAIN ST,4289019024,Steel Moment Frame,3,,,0,
-150 PICO BLVD (154) (144),4289020004,Unreinforced Masonry,1,,,,
+150 PICO BLVD (144 PICO BLVD/ 154 PICO BLVD),4289020004,Unreinforced Masonry,1,,,,
 1918 MAIN ST,4289020005,Soft Story,3,3,0,0,
 1918 MAIN ST,4289020005,Steel Moment Frame,3,,,0,
 2101 OCEAN AVE,4289021053,Soft Story,3,3,0,17,
@@ -3209,7 +3209,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1910 OCEAN FRONT WALK,4289025001,Unreinforced Masonry,6,,,,
 110 PICO BLVD,4289026008,Soft Story,3,3,0,68,
 716 COLORADO AVE,4290001016,Unreinforced Masonry,2,,,,
-700 COLORADO AVE (702),4290001016,Concrete Tilt-Up,,,,,
+700 COLORADO AVE (702 COLORADO AVE),4290001016,Concrete Tilt-Up,,,,,
 1653 7TH ST,4290002900,Steel Moment Frame,2,,,0,
 1811 7TH ST,4290004003,Soft Story,3,3,0,11,
 1817 7TH ST,4290004004,Soft Story,3,3,0,10,
@@ -3218,7 +3218,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1851 7TH ST,4290004011,Soft Story,2,2,0,11,
 1857 7TH ST,4290004012,Soft Story,2,2,0,7,
 701 PICO BLVD,4290004013,Unreinforced Masonry,1,,,,
-1824 LINCOLN BLVD (1822),4290004023,Unreinforced Masonry,1,,,,
+1824 LINCOLN BLVD (1822 LINCOLN BLVD),4290004023,Unreinforced Masonry,1,,,,
 1836 LINCOLN BLVD,4290004028,Soft Story,2,2,0,0,
 1835 7TH ST,4290004031,Soft Story,3,3,0,7,
 1835 7TH ST,4290004032,Soft Story,3,3,0,7,
@@ -3250,7 +3250,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 16 SEAVIEW TER,4290020036,Soft Story,2,2,0,2,
 40 SEAVIEW TER,4290020038,Soft Story,2,2,0,3,
 1760 OCEAN AVE,4290020039,Soft Story,3,3,0,17,
-1819 OCEAN AVE ,4290020042,Non-Ductile Concrete,8,,,0,Hotel
+1819 OCEAN AVE,4290020042,Non-Ductile Concrete,8,,,0,Hotel
 1 PICO BLVD,4290021007,Non-Ductile Concrete,7,,,0,Hotel
 1659 OCEAN FRONT WALK,4290022005,Soft Story,4,4,0,28,
 1647 OCEAN FRONT WALK,4290022007,Soft Story,3,3,0,18,
@@ -3258,17 +3258,17 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1220 2ND ST,4291001028,Non-Ductile Concrete,2,,,0,Church
 1299 OCEAN AVE,4291001034,Steel Moment Frame,11,,,0,
 100 WILSHIRE BLVD,4291001035,Non-Ductile Concrete,21,,,0,Commercial
-120 WILSHIRE BLVD (122),4291001036,Unreinforced Masonry,2,,,,
+120 WILSHIRE BLVD (122 WILSHIRE BLVD),4291001036,Unreinforced Masonry,2,,,,
 1202 3RD STREET PROM,4291002001,Non-Ductile Concrete,2,,,0,Commercial
-1242 3RD STREET PROM (1244),4291002008,Unreinforced Masonry,1,,,,
+1242 3RD STREET PROM (1244 3RD STREET PROM),4291002008,Unreinforced Masonry,1,,,,
 1248 3RD STREET PROM,4291002009,Unreinforced Masonry,1,,,,
 225 ARIZONA AVE,4291002011,Steel Moment Frame,3,,,0,
-301 ARIZONA AVE (301-303),4291003009,Steel Moment Frame,4,,,0,
+301 ARIZONA AVE (301-303 ARIZONA AVE),4291003009,Steel Moment Frame,4,,,0,
 312 WILSHIRE BLVD,4291003021,Non-Ductile Concrete,2,,,0,Commercial
 308 WILSHIRE BLVD,4291003025,Steel Moment Frame,2,,,0,
 1234 4TH ST,4291003903,Non-Ductile Concrete,4,,,0,Parking Garage
-400 WILSHIRE BLVD (400-412),4291004015,Unreinforced Masonry,2,,,,
-520 WILSHIRE BLVD (518-522),4291005003,Unreinforced Masonry,2,,,,
+400 WILSHIRE BLVD (400-412 WILSHIRE BLVD),4291004015,Unreinforced Masonry,2,,,,
+520 WILSHIRE BLVD (518-522 WILSHIRE BLVD),4291005003,Unreinforced Masonry,2,,,,
 1250 6TH ST,4291005011,Steel Moment Frame,4,,,0,
 530 WILSHIRE BLVD,4291005023,Unreinforced Masonry,4,,,,
 530 WILSHIRE BLVD,4291005023,Steel Moment Frame,4,,,0,
@@ -3284,14 +3284,14 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 501 SANTA MONICA BLVD,4291010023,Steel Moment Frame,7,,,0,
 1332 6TH ST,4291010028,Steel Moment Frame,3,,,0,
 429 SANTA MONICA BLVD,4291011009,Steel Moment Frame,7,,,0,
-401 SANTA MONICA BLVD (401-415),4291011010,Unreinforced Masonry,2,,,,
+401 SANTA MONICA BLVD (401-415 SANTA MONICA BLVD),4291011010,Unreinforced Masonry,2,,,,
 1342 5TH ST,4291011907,Non-Ductile Concrete,3,,,0,Parking Garage
 1301 4TH ST,4291011909,Concrete Tilt-Up,,,,,
-1330 4TH ST (1334),4291012005,Unreinforced Masonry,1 with mezzanine,,,,
-1342 4TH ST (1344),4291012007,Unreinforced Masonry,2,,,,
+1330 4TH ST (1334 4TH ST),4291012005,Unreinforced Masonry,1 with mezzanine,,,,
+1342 4TH ST (1344 4TH ST),4291012007,Unreinforced Masonry,2,,,,
 301 SANTA MONICA BLVD,4291012010,Unreinforced Masonry,4,,,,
 1351 3RD STREET PROM,4291012011,Unreinforced Masonry,3,,,,
-1343 3RD STREET PROM (1349),4291012012,Unreinforced Masonry,1,,,,
+1343 3RD STREET PROM (1349 3RD STREET PROM),4291012012,Unreinforced Masonry,1,,,,
 1331 3RD STREET PROM,4291012014,Unreinforced Masonry,1,,,,
 1319 3RD STREET PROM,4291012016,Unreinforced Masonry,2 or one/w mezzanine,,,,
 1320 4TH ST,4291012900,Non-Ductile Concrete,4,,,0,Parking Garage
@@ -3305,7 +3305,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1333 2ND ST,4291013024,Steel Moment Frame,6,,,0,
 101 SANTA MONICA BLVD (1341 OCEAN AVE),4291014025,Unreinforced Masonry,3,,,,
 1301 OCEAN AVE ,4291014026,Non-Ductile Concrete,6,,,0,Hotel
-116 SANTA MONICA BLVD (116-134) (1402 2ND ST),4291015001,Unreinforced Masonry,2,,,,
+116 SANTA MONICA BLVD (116-134 SANTA MONICA BLVD/1402 2ND ST),4291015001,Unreinforced Masonry,2,,,,
 1410 2ND ST,4291015002,Steel Moment Frame,3,,,0,
 1414 2ND ST,4291015003,Unreinforced Masonry,1,,,,
 1418 2ND ST,4291015004,Unreinforced Masonry,2,,,,
@@ -3315,15 +3315,15 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1431 OCEAN AVE ,4291015026,Non-Ductile Concrete,15,,,288,Hotel
 127 BROADWAY (119 BROADWAY),4291015027,Unreinforced Masonry,2,,,,
 1401 OCEAN AVE,4291015030,Steel Moment Frame,3,,,0,
-1410 3RD STREET PROM (1412),4291016003,Unreinforced Masonry,1,,,,
+1410 3RD STREET PROM (1412 3RD STREET PROM),4291016003,Unreinforced Masonry,1,,,,
 1418 3RD STREET PROM (BLDG 1),4291016005,Unreinforced Masonry,2,,,,
 1424 3RD STREET PROM (BLDG 2),4291016005,Unreinforced Masonry,2,,,,
 1432 3RD STREET PROM,4291016007,Unreinforced Masonry,1,,,,
-1446 3RD STREET PROM (1450),4291016010,Unreinforced Masonry,2,,,,
+1446 3RD STREET PROM (1450 3RD STREET PROM),4291016010,Unreinforced Masonry,2,,,,
 1452 3RD STREET PROM,4291016011,Unreinforced Masonry,NO ANSWER,,,,
 227 BROADWAY ,4291016012,Unreinforced Masonry,3,,,,
 201 BROADWAY,4291016013,Unreinforced Masonry,4,,,,
-200 SANTA MONICA BLVD (202),4291016018,Unreinforced Masonry,2,,,,
+200 SANTA MONICA BLVD (202 SANTA MONICA BLVD),4291016018,Unreinforced Masonry,2,,,,
 332 SANTA MONICA BLVD (1410 4TH ST),4291017001,Unreinforced Masonry,1,,,,
 318 SANTA MONICA BLVD,4291017002,Unreinforced Masonry,1 w/mezzanine,,,,
 1424 4TH ST,4291017004,Steel Moment Frame,2,,,0,
@@ -3333,11 +3333,11 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 309 BROADWAY,4291017025,Steel Moment Frame,5,,,0,
 1455 4TH ST ,4291018014,Unreinforced Masonry,4,,,,
 1443 4TH ST,4291018015,Unreinforced Masonry,2,,,,
-1437 4TH ST (1433),4291018026,Unreinforced Masonry,1,,,,
+1437 4TH ST (1433 4TH ST),4291018026,Unreinforced Masonry,1,,,,
 1407 5TH ST,4291019023,Non-Ductile Concrete,5,,,0,Commercial
 502 SANTA MONICA BLVD,4291019024,Unreinforced Masonry,4,,,,
 520 BROADWAY,4291019028,Steel Moment Frame,6,,,0,
-610 SANTA MONICA BLVD (606-616),4291020022,Unreinforced Masonry,2,,,,
+610 SANTA MONICA BLVD (606-616 SANTA MONICA BLVD),4291020022,Unreinforced Masonry,2,,,,
 1448 LINCOLN BLVD,4291021011,Unreinforced Masonry,1,,,,
 1452 LINCOLN BLVD,4291021012,Unreinforced Masonry,1,,,,
 719 BROADWAY,4291021015,Unreinforced Masonry,1,,,,
@@ -3345,16 +3345,16 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 1540 7TH ST,4291023006,Soft Story,3,3,0,0,
 1547 6TH ST,4291023011,Soft Story,2,2,0,1,
 407 COLORADO AVE,4291025012,Steel Moment Frame,1,,,0,
-1501 4TH ST (1501-1515),4291025032,Unreinforced Masonry,3,,,,
+1501 4TH ST (1501-1515 4TH ST),4291025032,Unreinforced Masonry,3,,,,
 420 BROADWAY,4291025033,Unreinforced Masonry,1,,,,
 1530 5TH ST,4291025034,Non-Ductile Concrete,6,,,126,Residential
 1527 4TH ST,4291025900,Steel Moment Frame,2,,,0,
-1522 2ND ST (1524),4291028003,Unreinforced Masonry,4,,,,
+1522 2ND ST (1524 2ND ST),4291028003,Unreinforced Masonry,4,,,,
 1541 OCEAN AVE,4291028017,Steel Moment Frame,3,,,0,
 1551 OCEAN AVE,4291028017,Steel Moment Frame,2,,,0,
 1520 2ND ST,4291028023,Unreinforced Masonry,"2 (1 front, 2 rear)",,,,
 1501 OCEAN AVE,4291028024,Steel Moment Frame,5,,,0,
-1535 OCEAN AVE (1537) ,4291028025,Unreinforced Masonry,1,,,,
+1535 OCEAN AVE (1537 OCEAN AVE),4291028025,Unreinforced Masonry,1,,,,
 1362 PALISADES BEACH RD (1362-1366 PALISADES BEACH RD),4291031035,Soft Story,2,2,0,3,
 1366 PALISADES BEACH RD (1362-1366 PALISADES BEACH RD),4291031036,Soft Story,2,2,0,3,
 1364 PALISADES BEACH RD (1362-1366 PALISADES BEACH RD),4291031037,Soft Story,2,2,0,3,
@@ -3372,7 +3372,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 921 7TH ST (921-923 7TH ST),4292002019,Soft Story,2,2,0,8,
 915 7TH ST (915-917 7TH ST),4292002020,Soft Story,2,2,0,5,
 907 7TH ST,4292002022,Soft Story,3,3,0,10,
-715 CALIFORNIA,4292003028,Unreinforced Masonry,2,,,,
+715 CALIFORNIA AVE,4292003028,Unreinforced Masonry,2,,,,
 1130 LINCOLN BLVD,4292004900,Unreinforced Masonry,2,,,,
 1133 7TH ST (BLDG 1),4292004900,Concrete Tilt-Up,,,,,
 1133 7TH ST (BLDG 2),4292004900,Concrete Tilt-Up,,,,,
@@ -3645,7 +3645,7 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 309 WILSHIRE BLVD,4292020004,Non-Ductile Concrete,2,,,0,Commercial
 320 CALIFORNIA AVE,4292020009,Soft Story,2,2,0,1,
 300 CALIFORNIA AVE,4292020010,Soft Story,3,3,0,35,
-315 WILSHIRE BLVD (307-315),4292020012,Unreinforced Masonry,2,,,,
+315 WILSHIRE BLVD (307-315 WILSHIRE BLVD),4292020012,Unreinforced Masonry,2,,,,
 1129 2ND ST,4292021009,Non-Ductile Concrete,8,,,0,Commercial
 220 CALIFORNIA AVE,4292021015,Soft Story,3,3,0,36,
 201 WILSHIRE BLVD,4292021019,Non-Ductile Concrete,3,,,0,Commercial
@@ -3753,10 +3753,10 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 801 OCEAN AVE ,4292025051,Non-Ductile Concrete,6,,,32,Residential
 801 OCEAN AVE ,4292025052,Non-Ductile Concrete,6,,,32,Residential
 801 OCEAN AVE ,4292025053,Non-Ductile Concrete,6,,,32,Residential
-"122 MONTANA AVE (122-128 MONTANA AVE, 804 2ND ST)",4292025055,Soft Story,3,2,0,5,
-"124 MONTANA AVE (122-128 MONTANA AVE, 804 2ND ST)",4292025056,Soft Story,3,2,0,5,
-"126 MONTANA AVE (122-128 MONTANA AVE, 804 2ND ST)",4292025057,Soft Story,3,2,0,5,
-"128 MONTANA AVE (122-128 MONTANA AVE, 804 2ND ST)",4292025058,Soft Story,3,2,0,5,
+122 MONTANA AVE (122-128 MONTANA AVE/804 2ND ST),4292025055,Soft Story,3,2,0,5,
+124 MONTANA AVE (122-128 MONTANA AVE/804 2ND ST),4292025056,Soft Story,3,2,0,5,
+126 MONTANA AVE (122-128 MONTANA AVE/804 2ND ST),4292025057,Soft Story,3,2,0,5,
+128 MONTANA AVE (122-128 MONTANA AVE/804 2ND ST),4292025058,Soft Story,3,2,0,5,
 804 2ND ST (122-128 MONTANA AVE),4292025059,Soft Story,3,2,0,5,
 125 WASHINGTON AVE,4292026011,Soft Story,3,3,0,12,
 933 OCEAN AVE,4292026017,Soft Story,2,2,0,12,
@@ -4178,203 +4178,203 @@ address,apn,building_type,stories_total,stories_above,stories_below,units,occupa
 633 OCEAN AVE ,4293015001,Soft Story,3,2,0,31,
 125 PALISADES AVE,4293015030,Soft Story,3,3,0,12,
 603 OCEAN AVE,4293015037,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015037,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015037,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015038,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015038,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015038,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015039,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015039,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015039,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015040,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015040,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015040,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015041,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015041,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015041,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015042,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015042,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015042,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015043,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015043,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015043,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015044,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015044,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015044,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015045,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015045,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015045,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015046,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015046,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015046,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015047,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015047,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015047,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015048,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015048,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015048,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015049,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015049,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015049,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015050,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015050,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015050,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015051,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015051,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015051,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015052,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015052,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015052,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015053,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015053,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015053,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015054,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015054,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015054,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015055,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015055,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015055,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015056,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015056,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015056,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015057,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015057,Steel Moment Frame,4,,,22,
+603 1ST CT (603 OCEAN AVE),4293015057,Steel Moment Frame,4,,,22,
 603 OCEAN AVE,4293015058,Unreinforced Masonry,6,,,,
-603 1ST CT (603 OCEAN AVENUE),4293015058,Steel Moment Frame,4,,,22,
-201 OCEAN AVE ,4293019001,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019002,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019003,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019004,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019005,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019006,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019007,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019008,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019009,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019010,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019011,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019012,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019013,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019014,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019015,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019016,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019017,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019018,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019019,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019020,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019021,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019022,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019023,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019024,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019025,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019026,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019027,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019028,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019029,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019030,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019031,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019032,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019033,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019034,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019035,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019036,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019037,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019038,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019039,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019040,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019041,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019042,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019043,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019044,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019045,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019046,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019047,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019048,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019049,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019050,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019051,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019052,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019053,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019054,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019055,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019056,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019057,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019058,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019059,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019060,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019061,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019062,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019063,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019064,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019065,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019066,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019067,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019068,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019069,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019070,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019071,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019072,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019073,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019074,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019075,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019076,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019077,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019078,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019079,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019080,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019081,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019082,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019083,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019084,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019085,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019086,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019087,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019088,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019089,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019090,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019091,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019092,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019093,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019094,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019095,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019096,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019097,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019098,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019099,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019100,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019101,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019102,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019103,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019104,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019105,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019106,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019107,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019108,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019109,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019110,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019111,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019112,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019113,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019114,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019115,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019116,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019117,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019118,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019119,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019120,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019121,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019122,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019123,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019124,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019125,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019126,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019127,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019128,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019129,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019130,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019131,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019132,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019133,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019134,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019135,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019136,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019137,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019138,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019139,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019140,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019141,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019142,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019143,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019144,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019145,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019146,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019147,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019148,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019149,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019150,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019151,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019152,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019153,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019154,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019155,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019156,Non-Ductile Concrete,16,,,157,Residential
-201 OCEAN AVE ,4293019157,Non-Ductile Concrete,16,,,157,Residential
+603 1ST CT (603 OCEAN AVE),4293015058,Steel Moment Frame,4,,,22,
+201 OCEAN AVE,4293019001,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019002,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019003,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019004,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019005,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019006,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019007,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019008,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019009,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019010,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019011,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019012,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019013,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019014,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019015,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019016,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019017,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019018,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019019,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019020,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019021,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019022,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019023,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019024,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019025,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019026,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019027,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019028,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019029,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019030,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019031,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019032,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019033,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019034,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019035,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019036,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019037,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019038,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019039,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019040,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019041,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019042,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019043,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019044,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019045,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019046,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019047,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019048,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019049,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019050,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019051,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019052,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019053,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019054,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019055,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019056,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019057,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019058,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019059,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019060,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019061,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019062,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019063,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019064,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019065,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019066,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019067,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019068,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019069,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019070,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019071,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019072,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019073,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019074,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019075,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019076,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019077,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019078,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019079,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019080,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019081,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019082,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019083,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019084,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019085,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019086,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019087,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019088,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019089,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019090,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019091,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019092,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019093,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019094,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019095,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019096,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019097,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019098,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019099,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019100,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019101,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019102,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019103,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019104,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019105,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019106,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019107,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019108,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019109,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019110,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019111,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019112,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019113,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019114,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019115,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019116,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019117,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019118,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019119,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019120,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019121,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019122,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019123,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019124,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019125,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019126,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019127,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019128,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019129,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019130,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019131,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019132,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019133,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019134,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019135,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019136,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019137,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019138,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019139,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019140,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019141,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019142,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019143,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019144,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019145,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019146,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019147,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019148,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019149,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019150,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019151,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019152,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019153,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019154,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019155,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019156,Non-Ductile Concrete,16,,,157,Residential
+201 OCEAN AVE,4293019157,Non-Ductile Concrete,16,,,157,Residential

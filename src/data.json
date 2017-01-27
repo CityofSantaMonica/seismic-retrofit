@@ -140,7 +140,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2721 WILSHIRE BLVD (2723)",
+    "address": "2721 WILSHIRE BLVD (2723 WILSHIRE BLVD)",
     "apn": "4266016050",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -550,7 +550,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2828 WILSHIRE BLVD (2838)",
+    "address": "2828 WILSHIRE BLVD (2838 WILSHIRE BLVD)",
     "apn": "4267005009",
     "building_type": "Concrete Tilt-Up",
     "stories_total": "",
@@ -917,16 +917,6 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "4",
-    "occupancy_type": ""
-  },
-  {
-    "address": "1110 20TH ST",
-    "apn": "4267008021",
-    "building_type": "Soft Story",
-    "stories_total": "2",
-    "stories_above": "2",
-    "stories_below": "0",
-    "units": "6",
     "occupancy_type": ""
   },
   {
@@ -2870,7 +2860,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2630 SANTA MONICA BLVD (2632)",
+    "address": "2630 SANTA MONICA BLVD (2632 SANTA MONICA BLVD)",
     "apn": "4267021001",
     "building_type": "Unreinforced Masonry",
     "stories_total": "N/A",
@@ -3220,7 +3210,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2814 BROADWAY (2818)",
+    "address": "2814 BROADWAY (2818 BROADWAY)",
     "apn": "4267024002",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -3270,7 +3260,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1548 YALE ST (1548 YALE ST/2835 COLORADO)",
+    "address": "1548 YALE ST (1548 YALE ST/2835 COLORADO AVE)",
     "apn": "4267024030",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -4390,7 +4380,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2329 33RD ST (2331)",
+    "address": "2329 33RD ST (2331 33RD ST)",
     "apn": "4270009006",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -5120,7 +5110,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "3011 OCEAN PARK BLVD (3013)",
+    "address": "3011 OCEAN PARK BLVD (3013 OCEAN PARK BLVD)",
     "apn": "4270021051",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -5670,7 +5660,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "3223 DONALD DOUGLAS LOOP S",
+    "address": "3223 DONALD DOUGLAS LOOP SOUTH",
     "apn": "4272026902",
     "building_type": "Steel Moment Frame",
     "stories_total": "2",
@@ -5790,7 +5780,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2951 DONALD DOUGLAS LOOP N",
+    "address": "2951 DONALD DOUGLAS LOOP NORTH",
     "apn": "4272031002",
     "building_type": "Steel Moment Frame",
     "stories_total": "3",
@@ -8180,7 +8170,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1827 BROADWAY (1819)",
+    "address": "1827 BROADWAY (1819 BROADWAY)",
     "apn": "4275010012",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -8230,7 +8220,7 @@
     "occupancy_type": "Commercial"
   },
   {
-    "address": "1721 BROADWAY (1721-31)",
+    "address": "1721 BROADWAY (1721-1731 BROADWAY)",
     "apn": "4275011027",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -8330,7 +8320,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1700 22ND ST (1704)",
+    "address": "1700 22ND ST (1704 22ND ST)",
     "apn": "4275030010",
     "building_type": "Concrete Tilt-Up",
     "stories_total": "",
@@ -8350,7 +8340,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1730 22ND ST (1728)",
+    "address": "1730 22ND ST (1728 22ND ST)",
     "apn": "4275031018",
     "building_type": "Concrete Tilt-Up",
     "stories_total": "",
@@ -8740,6 +8730,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1110 20TH ST",
+    "apn": "4276008021",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "1102 20TH ST",
     "apn": "4276008022",
     "building_type": "Soft Story",
@@ -8970,7 +8970,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1801 WILSHIRE BLVD (1801 -1831)",
+    "address": "1801 WILSHIRE BLVD (1801-1831 WILSHIRE BLVD)",
     "apn": "4276009036",
     "building_type": "Steel Moment Frame",
     "stories_total": "6",
@@ -9790,7 +9790,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2406 WILSHIRE BLVD (2408)",
+    "address": "2406 WILSHIRE BLVD (2408 WILSHIRE BLVD)",
     "apn": "4276017043",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -10270,7 +10270,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1905 SANTA MONICA BLVD (1909)",
+    "address": "1905 SANTA MONICA BLVD (1909 SANTA MONICA BLVD)",
     "apn": "4276028013",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -15400,7 +15400,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1417 WILSHIRE BLVD (1423)",
+    "address": "1417 WILSHIRE BLVD (1423 WILSHIRE BLVD)",
     "apn": "4281011025",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -15410,7 +15410,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1411 WILSHIRE BLVD (1415)",
+    "address": "1411 WILSHIRE BLVD (1415 WILSHIRE BLVD)",
     "apn": "4281011026",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -19590,7 +19590,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "806 IDAHO AVE (802-812 IDAHO AVE/903 LINCOLN)",
+    "address": "806 IDAHO AVE (802-812 IDAHO AVE/903 LINCOLN BLVD)",
     "apn": "4281033023",
     "building_type": "Soft Story",
     "stories_total": "3",
@@ -19980,7 +19980,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "815 WILSHIRE BLVD (815-823)",
+    "address": "815 WILSHIRE BLVD (815-823 WILSHIRE BLVD)",
     "apn": "4281035024",
     "building_type": "Unreinforced Masonry",
     "stories_total": "3",
@@ -20001,7 +20001,7 @@
   },
   {
     "address": "1142 9TH ST",
-    "apn": "4281035028",
+    "apn": "4281035036",
     "building_type": "Soft Story",
     "stories_total": "3",
     "stories_above": "2",
@@ -20620,7 +20620,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1231 LINCOLN BLVD (1233)",
+    "address": "1231 LINCOLN BLVD (1233 LINCOLN BLVD)",
     "apn": "4282009017",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -21140,7 +21140,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1127 SANTA MONICA BLVD (1117)",
+    "address": "1127 SANTA MONICA BLVD (1117 SANTA MONICA BLVD)",
     "apn": "4282013024",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -21310,7 +21310,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1221 SANTA MONICA BLVD (1229)",
+    "address": "1221 SANTA MONICA BLVD (1229 SANTA MONICA BLVD)",
     "apn": "4282014012",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -21720,7 +21720,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1631 SANTA MONICA BLVD (1623)",
+    "address": "1631 SANTA MONICA BLVD (1623 SANTA MONICA BLVD)",
     "apn": "4282018011",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1, portions are 2",
@@ -21790,7 +21790,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1434 SANTA MONICA BLVD (1430)",
+    "address": "1434 SANTA MONICA BLVD (1430 SANTA MONICA BLVD)",
     "apn": "4282021001",
     "building_type": "Unreinforced Masonry",
     "stories_total": "3",
@@ -21990,7 +21990,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "920 SANTA MONICA BLVD (920-928)",
+    "address": "920 SANTA MONICA BLVD (920-928 SANTA MONICA BLVD)",
     "apn": "4282026001",
     "building_type": "Unreinforced Masonry",
     "stories_total": "3",
@@ -22090,7 +22090,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "804 BROADWAY (802)",
+    "address": "804 BROADWAY (802 BROADWAY)",
     "apn": "4282028017",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -22300,7 +22300,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1549 12TH ST (1545)",
+    "address": "1549 12TH ST (1545 12TH ST)",
     "apn": "4282032032",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -22400,7 +22400,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "902 COLORADO AVE (902-926)",
+    "address": "902 COLORADO AVE (902-926 COLORADO AVE)",
     "apn": "4283002900",
     "building_type": "Concrete Tilt-Up",
     "stories_total": "",
@@ -24810,7 +24810,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "611 OCEAN PARK BLVD (611 OCEAN PARK BLVD/2550 BEVERLY AVE)",
+    "address": "611 OCEAN PARK BLVD (611 OCEAN PARK BLVD/2550 BEVERLEY AVE)",
     "apn": "4287005003",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -24820,7 +24820,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2534 BEVERLY AVE",
+    "address": "2534 BEVERLEY AVE",
     "apn": "4287005007",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -27710,7 +27710,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "668 MARINE ST (666-672)",
+    "address": "668 MARINE ST (666-672 MARINE ST)",
     "apn": "4287035001",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -28100,7 +28100,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2821 MAIN ST (2815-2821)",
+    "address": "2821 MAIN ST (2815-2821 MAIN ST)",
     "apn": "4288003023",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -28140,7 +28140,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2701 MAIN ST (2703) (210 HILL ST)",
+    "address": "2701 MAIN ST (2703 MAIN ST/210 HILL ST)",
     "apn": "4288003043",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -28150,7 +28150,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2909 MAIN ST (2907-2915)",
+    "address": "2909 MAIN ST (2907-2915 MAIN ST)",
     "apn": "4288004023",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -28160,7 +28160,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2905 MAIN ST (2901)",
+    "address": "2905 MAIN ST (2901 MAIN ST)",
     "apn": "4288004024",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -28200,7 +28200,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2934 MAIN ST (2936)",
+    "address": "2934 MAIN ST (2936 MAIN ST)",
     "apn": "4288008005",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1 with mezzanine",
@@ -28220,7 +28220,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "171 PIER AVE (169-177)",
+    "address": "171 PIER AVE (169-177 PIER AVE)",
     "apn": "4288008008",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -28240,7 +28240,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2804 MAIN ST (2802-2808)",
+    "address": "2804 MAIN ST (2802-2808 MAIN ST)",
     "apn": "4288010005",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -29130,7 +29130,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1900 LINCOLN BLVD (1900-1916)",
+    "address": "1900 LINCOLN BLVD (1900-1916 LINCOLN BLVD)",
     "apn": "4289003045",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -29160,7 +29160,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "647 STRAND ST (647-647 1/2 STRAND ST)",
+    "address": "647 STRAND ST (647-1/2 STRAND ST)",
     "apn": "4289005024",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -29350,7 +29350,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2321 6TH ST (2321 6TH ST/2414 BEVERLY AVE)",
+    "address": "2321 6TH ST (2321 6TH ST/2414 BEVERLEY AVE)",
     "apn": "4289006003",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30160,7 +30160,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2309 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2309 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007101",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30170,7 +30170,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2309 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2309 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007102",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30180,7 +30180,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2309 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2309 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007103",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30190,7 +30190,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2309 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2309 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007104",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30200,7 +30200,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2310 6TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2310 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007105",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30210,7 +30210,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2310 6TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2310 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007106",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30220,7 +30220,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2310 6TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2310 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007107",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30230,7 +30230,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2310 6TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2310 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007108",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30240,7 +30240,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2312 6TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2312 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007109",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30250,7 +30250,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2312 6TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2312 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007110",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30260,7 +30260,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2310 6TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2310 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007111",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30270,7 +30270,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2312 6TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2312 6TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007112",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30280,7 +30280,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2313 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2313 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007113",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30290,7 +30290,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2313 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2313 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007114",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30300,7 +30300,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2313 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2313 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007115",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30310,7 +30310,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2313 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2313 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007116",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30320,7 +30320,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2317 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2317 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007117",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30330,7 +30330,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2317 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2317 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007118",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30340,7 +30340,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2317 5TH ST (2309-2317 5TH, 2310-2312 6TH)",
+    "address": "2317 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007119",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -30350,7 +30350,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2317 5TH ST (2309-2317 5TH/2310-2312 6TH)",
+    "address": "2317 5TH ST (2309-2317 5TH ST/2310-2312 6TH ST)",
     "apn": "4289007120",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -31220,7 +31220,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2214 3RD ST (2210)",
+    "address": "2214 3RD ST (2210 3RD ST)",
     "apn": "4289016027",
     "building_type": "Soft Story",
     "stories_total": "4",
@@ -31260,7 +31260,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2003 MAIN ST (2001-2011)",
+    "address": "2003 MAIN ST (2001-2011 MAIN ST)",
     "apn": "4289018001",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -31590,7 +31590,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1921 MAIN ST (1921-29)",
+    "address": "1921 MAIN ST (1921-1929 MAIN ST)",
     "apn": "4289019006",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -31620,7 +31620,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "150 PICO BLVD (154) (144)",
+    "address": "150 PICO BLVD (144 PICO BLVD/ 154 PICO BLVD)",
     "apn": "4289020004",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -32100,7 +32100,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "700 COLORADO AVE (702)",
+    "address": "700 COLORADO AVE (702 COLORADO AVE)",
     "apn": "4290001016",
     "building_type": "Concrete Tilt-Up",
     "stories_total": "",
@@ -32190,7 +32190,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1824 LINCOLN BLVD (1822)",
+    "address": "1824 LINCOLN BLVD (1822 LINCOLN BLVD)",
     "apn": "4290004023",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -32590,7 +32590,7 @@
     "occupancy_type": "Commercial"
   },
   {
-    "address": "120 WILSHIRE BLVD (122)",
+    "address": "120 WILSHIRE BLVD (122 WILSHIRE BLVD)",
     "apn": "4291001036",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -32610,7 +32610,7 @@
     "occupancy_type": "Commercial"
   },
   {
-    "address": "1242 3RD STREET PROM (1244)",
+    "address": "1242 3RD STREET PROM (1244 3RD STREET PROM)",
     "apn": "4291002008",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -32640,7 +32640,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "301 ARIZONA AVE (301-303)",
+    "address": "301 ARIZONA AVE (301-303 ARIZONA AVE)",
     "apn": "4291003009",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -32680,7 +32680,7 @@
     "occupancy_type": "Parking Garage"
   },
   {
-    "address": "400 WILSHIRE BLVD (400-412)",
+    "address": "400 WILSHIRE BLVD (400-412 WILSHIRE BLVD)",
     "apn": "4291004015",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -32690,7 +32690,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "520 WILSHIRE BLVD (518-522)",
+    "address": "520 WILSHIRE BLVD (518-522 WILSHIRE BLVD)",
     "apn": "4291005003",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -32850,7 +32850,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "401 SANTA MONICA BLVD (401-415)",
+    "address": "401 SANTA MONICA BLVD (401-415 SANTA MONICA BLVD)",
     "apn": "4291011010",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -32880,7 +32880,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1330 4TH ST (1334)",
+    "address": "1330 4TH ST (1334 4TH ST)",
     "apn": "4291012005",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1 with mezzanine",
@@ -32890,7 +32890,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1342 4TH ST (1344)",
+    "address": "1342 4TH ST (1344 4TH ST)",
     "apn": "4291012007",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -32920,7 +32920,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1343 3RD STREET PROM (1349)",
+    "address": "1343 3RD STREET PROM (1349 3RD STREET PROM)",
     "apn": "4291012012",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -33060,7 +33060,7 @@
     "occupancy_type": "Hotel"
   },
   {
-    "address": "116 SANTA MONICA BLVD (116-134) (1402 2ND ST)",
+    "address": "116 SANTA MONICA BLVD (116-134 SANTA MONICA BLVD/1402 2ND ST)",
     "apn": "4291015001",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -33160,7 +33160,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1410 3RD STREET PROM (1412)",
+    "address": "1410 3RD STREET PROM (1412 3RD STREET PROM)",
     "apn": "4291016003",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -33200,7 +33200,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1446 3RD STREET PROM (1450)",
+    "address": "1446 3RD STREET PROM (1450 3RD STREET PROM)",
     "apn": "4291016010",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -33240,7 +33240,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "200 SANTA MONICA BLVD (202)",
+    "address": "200 SANTA MONICA BLVD (202 SANTA MONICA BLVD)",
     "apn": "4291016018",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -33340,7 +33340,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1437 4TH ST (1433)",
+    "address": "1437 4TH ST (1433 4TH ST)",
     "apn": "4291018026",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -33380,7 +33380,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "610 SANTA MONICA BLVD (606-616)",
+    "address": "610 SANTA MONICA BLVD (606-616 SANTA MONICA BLVD)",
     "apn": "4291020022",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -33460,7 +33460,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1501 4TH ST (1501-1515)",
+    "address": "1501 4TH ST (1501-1515 4TH ST)",
     "apn": "4291025032",
     "building_type": "Unreinforced Masonry",
     "stories_total": "3",
@@ -33500,7 +33500,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1522 2ND ST (1524)",
+    "address": "1522 2ND ST (1524 2ND ST)",
     "apn": "4291028003",
     "building_type": "Unreinforced Masonry",
     "stories_total": "4",
@@ -33550,7 +33550,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1535 OCEAN AVE (1537)",
+    "address": "1535 OCEAN AVE (1537 OCEAN AVE)",
     "apn": "4291028025",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -33730,7 +33730,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "715 CALIFORNIA",
+    "address": "715 CALIFORNIA AVE",
     "apn": "4292003028",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -36460,7 +36460,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "315 WILSHIRE BLVD (307-315)",
+    "address": "315 WILSHIRE BLVD (307-315 WILSHIRE BLVD)",
     "apn": "4292020012",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -37540,7 +37540,7 @@
     "occupancy_type": "Residential"
   },
   {
-    "address": "122 MONTANA AVE (122-128 MONTANA AVE, 804 2ND ST)",
+    "address": "122 MONTANA AVE (122-128 MONTANA AVE/804 2ND ST)",
     "apn": "4292025055",
     "building_type": "Soft Story",
     "stories_total": "3",
@@ -37550,7 +37550,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "124 MONTANA AVE (122-128 MONTANA AVE, 804 2ND ST)",
+    "address": "124 MONTANA AVE (122-128 MONTANA AVE/804 2ND ST)",
     "apn": "4292025056",
     "building_type": "Soft Story",
     "stories_total": "3",
@@ -37560,7 +37560,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "126 MONTANA AVE (122-128 MONTANA AVE, 804 2ND ST)",
+    "address": "126 MONTANA AVE (122-128 MONTANA AVE/804 2ND ST)",
     "apn": "4292025057",
     "building_type": "Soft Story",
     "stories_total": "3",
@@ -37570,7 +37570,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "128 MONTANA AVE (122-128 MONTANA AVE, 804 2ND ST)",
+    "address": "128 MONTANA AVE (122-128 MONTANA AVE/804 2ND ST)",
     "apn": "4292025058",
     "building_type": "Soft Story",
     "stories_total": "3",
@@ -41790,7 +41790,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015037",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -41810,7 +41810,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015038",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -41830,7 +41830,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015039",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -41850,7 +41850,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015040",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -41870,7 +41870,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015041",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -41890,7 +41890,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015042",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -41910,7 +41910,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015043",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -41930,7 +41930,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015044",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -41950,7 +41950,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015045",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -41970,7 +41970,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015046",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -41990,7 +41990,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015047",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42010,7 +42010,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015048",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42030,7 +42030,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015049",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42050,7 +42050,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015050",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42070,7 +42070,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015051",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42090,7 +42090,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015052",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42110,7 +42110,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015053",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42130,7 +42130,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015054",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42150,7 +42150,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015055",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42170,7 +42170,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015056",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42190,7 +42190,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015057",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
@@ -42210,7 +42210,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "603 1ST CT (603 OCEAN AVENUE)",
+    "address": "603 1ST CT (603 OCEAN AVE)",
     "apn": "4293015058",
     "building_type": "Steel Moment Frame",
     "stories_total": "4",
