@@ -24810,7 +24810,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "611 OCEAN PARK BLVD (611 OCEAN PARK BLVD/2550 BEVERELY AVE)",
+    "address": "611 OCEAN PARK BLVD (611 OCEAN PARK BLVD/2550 BEVERLY AVE)",
     "apn": "4287005003",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -24820,7 +24820,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2534 BEVERELY AVE",
+    "address": "2534 BEVERLY AVE",
     "apn": "4287005007",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -28203,7 +28203,7 @@
     "address": "2934 MAIN ST (2936)",
     "apn": "4288008005",
     "building_type": "Unreinforced Masonry",
-    "stories_total": "1 with mezanine",
+    "stories_total": "1 with mezzanine",
     "stories_above": "",
     "stories_below": "",
     "units": "",
@@ -29350,7 +29350,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "2321 6TH ST (2321 6TH ST/2414 BEVERELY AVE)",
+    "address": "2321 6TH ST (2321 6TH ST/2414 BEVERLY AVE)",
     "apn": "4289006003",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -32600,7 +32600,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1202 3RD ST PROMENADE",
+    "address": "1202 3RD STREET PROM",
     "apn": "4291002001",
     "building_type": "Non-Ductile Concrete",
     "stories_total": "2",
@@ -32610,7 +32610,7 @@
     "occupancy_type": "Commercial"
   },
   {
-    "address": "1242 3RD ST PROMENADE (1244)",
+    "address": "1242 3RD STREET PROM (1244)",
     "apn": "4291002008",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -32620,7 +32620,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1248 3RD ST PROMENADE",
+    "address": "1248 3RD STREET PROM",
     "apn": "4291002009",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -32883,7 +32883,7 @@
     "address": "1330 4TH ST (1334)",
     "apn": "4291012005",
     "building_type": "Unreinforced Masonry",
-    "stories_total": "1 with mezanine",
+    "stories_total": "1 with mezzanine",
     "stories_above": "",
     "stories_below": "",
     "units": "",
@@ -32910,7 +32910,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1351 3RD STREET PROMENADE",
+    "address": "1351 3RD STREET PROM",
     "apn": "4291012011",
     "building_type": "Unreinforced Masonry",
     "stories_total": "3",
@@ -32920,7 +32920,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1343 3RD STREET PROMENADE (1349)",
+    "address": "1343 3RD STREET PROM (1349)",
     "apn": "4291012012",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -32930,7 +32930,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1331 3RD STREET PROMENADE",
+    "address": "1331 3RD STREET PROM",
     "apn": "4291012014",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -32940,10 +32940,10 @@
     "occupancy_type": ""
   },
   {
-    "address": "1319 3RD STREET PROMENADE",
+    "address": "1319 3RD STREET PROM",
     "apn": "4291012016",
     "building_type": "Unreinforced Masonry",
-    "stories_total": "2 or one/w mezz",
+    "stories_total": "2 or one/w mezzanine",
     "stories_above": "",
     "stories_below": "",
     "units": "",
@@ -32960,7 +32960,7 @@
     "occupancy_type": "Parking Garage"
   },
   {
-    "address": "1318 3RD STREET PROMENADE",
+    "address": "1318 3RD STREET PROM",
     "apn": "4291013003",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -32970,7 +32970,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1340 3RD STREET PROMENADE",
+    "address": "1340 3RD STREET PROM",
     "apn": "4291013007",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -32980,7 +32980,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1344 3RD STREET PROMENADE",
+    "address": "1344 3RD STREET PROM",
     "apn": "4291013008",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -32990,7 +32990,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1348 3RD STREET PROMENADE",
+    "address": "1348 3RD STREET PROM",
     "apn": "4291013009",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -33160,7 +33160,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1410 3RD STREET PROMENADE (1412)",
+    "address": "1410 3RD STREET PROM (1412)",
     "apn": "4291016003",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -33170,7 +33170,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1418 3RD STREET PROMENADE (BLDG 1)",
+    "address": "1418 3RD STREET PROM (BLDG 1)",
     "apn": "4291016005",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -33180,7 +33180,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1424 3RD STREET PROMENADE (BLDG 2)",
+    "address": "1424 3RD STREET PROM (BLDG 2)",
     "apn": "4291016005",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -33190,7 +33190,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1432 3RD STREET PROMENADE",
+    "address": "1432 3RD STREET PROM",
     "apn": "4291016007",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -33200,7 +33200,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1446 3RD STREET PROMENADE (1450)",
+    "address": "1446 3RD STREET PROM (1450)",
     "apn": "4291016010",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -33210,7 +33210,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1452 3RD STREET PROMENADE",
+    "address": "1452 3RD STREET PROM",
     "apn": "4291016011",
     "building_type": "Unreinforced Masonry",
     "stories_total": "NO ANSWER",
@@ -33263,7 +33263,7 @@
     "address": "318 SANTA MONICA BLVD",
     "apn": "4291017002",
     "building_type": "Unreinforced Masonry",
-    "stories_total": "1 w/mezz",
+    "stories_total": "1 w/mezzanine",
     "stories_above": "",
     "stories_below": "",
     "units": "",
@@ -33290,7 +33290,7 @@
     "occupancy_type": "Commercial"
   },
   {
-    "address": "1429 3RD STREET PROMENADE",
+    "address": "1429 3RD STREET PROM",
     "apn": "4291017015",
     "building_type": "Unreinforced Masonry",
     "stories_total": "1",
@@ -33300,7 +33300,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1427 3RD STREET PROMENADE",
+    "address": "1427 3RD STREET PROM",
     "apn": "4291017016",
     "building_type": "Unreinforced Masonry",
     "stories_total": "2",
@@ -33560,7 +33560,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1362 PALISADES BEACH ROAD (1362-1366 PALISADES BEACH ROAD)",
+    "address": "1362 PALISADES BEACH RD (1362-1366 PALISADES BEACH RD)",
     "apn": "4291031035",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -33570,7 +33570,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1366 PALISADES BEACH ROAD (1362-1366 PALISADES BEACH ROAD)",
+    "address": "1366 PALISADES BEACH RD (1362-1366 PALISADES BEACH RD)",
     "apn": "4291031036",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -33580,7 +33580,7 @@
     "occupancy_type": ""
   },
   {
-    "address": "1364 PALISADES BEACH ROAD (1362-1366 PALISADES BEACH ROAD)",
+    "address": "1364 PALISADES BEACH RD (1362-1366 PALISADES BEACH RD)",
     "apn": "4291031037",
     "building_type": "Soft Story",
     "stories_total": "2",
@@ -36283,7 +36283,7 @@
     "address": "1001 3RD ST",
     "apn": "4292019015",
     "building_type": "Unreinforced Masonry",
-    "stories_total": "3+ - Penthouse",
+    "stories_total": "3+ Penthouse",
     "stories_above": "",
     "stories_below": "",
     "units": "",
