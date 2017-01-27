@@ -48,11 +48,13 @@
 
           var q = ctrl.q.replace(/[^\w\s]/g, "")
                         .replace(/avenue/i, "ave")
+                        .replace(/beach road/i, "beach rd")
                         .replace(/boulevard/i, "blvd")
                         .replace(/court/i, "ct")
                         .replace(/drive/i, "dr")
                         .replace(/place/i, "pl")
-                        .replace(/street(?!\spromenade)/i, "st")
+                        .replace(/promenade/i, "prom")
+                        .replace(/street/i, "st")
                         .replace(/terrace/i, "ter");
 
           var addressMatches = filter(ctrl.data, { address: q });
