@@ -70,6 +70,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "2622 MONTANA AVE",
+    "apn": "4266013057",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "2626 MONTANA AVE",
     "apn": "4266013058",
     "building_type": "Soft Story",
@@ -162,6 +172,16 @@
   {
     "address": "1223 BERKELEY ST",
     "apn": "4267002016",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1237 BERKELEY ST",
+    "apn": "4267002019",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -400,6 +420,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "2927 ARIZONA AVE",
+    "apn": "4267004002",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "1224 STANFORD ST",
     "apn": "4267004011",
     "building_type": "Soft Story",
@@ -407,6 +437,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "9",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2921 ARIZONA AVE",
+    "apn": "4267004023",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
     "occupancy_type": ""
   },
   {
@@ -610,6 +650,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1242 HARVARD ST",
+    "apn": "4267006019",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "8",
+    "occupancy_type": ""
+  },
+  {
     "address": "1229 PRINCETON ST",
     "apn": "4267006029",
     "building_type": "Soft Story",
@@ -687,6 +737,56 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1258 PRINCETON ST (2623-2629 ARIZONA AVE)",
+    "apn": "4267007033",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1258 PRINCETON ST (2623-2629 ARIZONA AVE)",
+    "apn": "4267007034",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1258 PRINCETON ST (2623-2629 ARIZONA AVE)",
+    "apn": "4267007035",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1258 PRINCETON ST (2623-2629 ARIZONA AVE)",
+    "apn": "4267007036",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1258 PRINCETON ST (2623-2629 ARIZONA AVE)",
+    "apn": "4267007037",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
     "occupancy_type": ""
   },
   {
@@ -1380,6 +1480,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1324 BERKELEY ST",
+    "apn": "4267012017",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
     "address": "1328 BERKELEY ST",
     "apn": "4267012049",
     "building_type": "Soft Story",
@@ -1680,6 +1790,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1327 BERKELEY ST",
+    "apn": "4267013014",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "1323 BERKELEY ST",
     "apn": "4267013016",
     "building_type": "Soft Story",
@@ -1697,6 +1817,16 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "33",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1307 BERKELEY ST",
+    "apn": "4267013023",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
     "occupancy_type": ""
   },
   {
@@ -2220,6 +2350,96 @@
     "occupancy_type": ""
   },
   {
+    "address": "1434 FRANKLIN ST",
+    "apn": "4267016016",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1453 BERKELEY ST",
+    "apn": "4267016023",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1437 BERKELEY ST",
+    "apn": "4267016030",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1437 BERKELEY ST",
+    "apn": "4267016031",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1437 BERKELEY ST",
+    "apn": "4267016032",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1437 BERKELEY ST",
+    "apn": "4267016033",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1437 BERKELEY ST",
+    "apn": "4267016034",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1437 BERKELEY ST",
+    "apn": "4267016035",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1415 STANFORD ST",
+    "apn": "4267017001",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "0",
+    "occupancy_type": ""
+  },
+  {
     "address": "1448 BERKELEY ST",
     "apn": "4267017021",
     "building_type": "Soft Story",
@@ -2570,6 +2790,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1421 YALE ST",
+    "apn": "4267018010",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "1437 YALE ST",
     "apn": "4267018016",
     "building_type": "Soft Story",
@@ -2587,6 +2817,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "3",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2905 BROADWAY (2911 BROADWAY)",
+    "apn": "4267018024",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
     "occupancy_type": ""
   },
   {
@@ -2850,6 +3090,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1441 PRINCETON ST",
+    "apn": "4267020019",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "1443 PRINCETON ST",
     "apn": "4267020020",
     "building_type": "Soft Story",
@@ -2857,6 +3107,26 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1449 PRINCETON ST",
+    "apn": "4267020021",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1451 PRINCETON ST",
+    "apn": "4267020022",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
     "occupancy_type": ""
   },
   {
@@ -3630,6 +3900,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1507 BERKELEY ST",
+    "apn": "4267027003",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
     "address": "1533 BERKELEY ST",
     "apn": "4267027014",
     "building_type": "Soft Story",
@@ -3657,6 +3937,26 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "3",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1521 CENTINELA AVE",
+    "apn": "4267028004",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1537 CENTINELA AVE",
+    "apn": "4267028007",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
     "occupancy_type": ""
   },
   {
@@ -3810,6 +4110,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "3014 COLORADO AVE",
+    "apn": "4268004004",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "3022 COLORADO AVE",
     "apn": "4268004006",
     "building_type": "Soft Story",
@@ -3850,8 +4160,28 @@
     "occupancy_type": ""
   },
   {
+    "address": "3116 COLORADO AVE",
+    "apn": "4268005004",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
     "address": "3120 COLORADO AVE",
     "apn": "4268005005",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
+    "address": "3124 COLORADO AVE",
+    "apn": "4268005006",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -4020,6 +4350,106 @@
     "occupancy_type": ""
   },
   {
+    "address": "1625 CENTINELA AVE (1621 CENTINELA AVE)",
+    "apn": "4268006057",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1625 CENTINELA AVE (1621 CENTINELA AVE)",
+    "apn": "4268006058",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1625 CENTINELA AVE (1621 CENTINELA AVE)",
+    "apn": "4268006059",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1625 CENTINELA AVE (1621 CENTINELA AVE)",
+    "apn": "4268006060",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1625 CENTINELA AVE (1621 CENTINELA AVE)",
+    "apn": "4268006061",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1625 CENTINELA AVE (1621 CENTINELA AVE)",
+    "apn": "4268006062",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1625 CENTINELA AVE (1621 CENTINELA AVE)",
+    "apn": "4268006063",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1625 CENTINELA AVE (1621 CENTINELA AVE)",
+    "apn": "4268006064",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1625 CENTINELA AVE (1621 CENTINELA AVE)",
+    "apn": "4268006065",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1625 CENTINELA AVE (1621 CENTINELA AVE)",
+    "apn": "4268006066",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
     "address": "1621 FRANKLIN ST",
     "apn": "4268006067",
     "building_type": "Soft Story",
@@ -4032,6 +4462,16 @@
   {
     "address": "1715 CENTINELA AVE",
     "apn": "4268007004",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1725 CENTINELA AVE",
+    "apn": "4268007007",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -4242,6 +4682,16 @@
   {
     "address": "2918 EXPOSITION BLVD (2918-2920 EXPOSITION BLVD)",
     "apn": "4268022004",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "3",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2958 EXPOSITION BLVD",
+    "apn": "4268022012",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -5230,6 +5680,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1802 OCEAN PARK BLVD",
+    "apn": "4272001001",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
     "address": "1809 OAK ST (1807-1809 OAK ST)",
     "apn": "4272001007",
     "building_type": "Soft Story",
@@ -5350,6 +5810,26 @@
     "occupancy_type": ""
   },
   {
+    "address": "2211 OAK ST",
+    "apn": "4272008020",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2636 23RD ST",
+    "apn": "4272008024",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "8",
+    "occupancy_type": ""
+  },
+  {
     "address": "2122 OCEAN PARK BLVD",
     "apn": "4272008025",
     "building_type": "Soft Story",
@@ -5367,6 +5847,26 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "3",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2128 OAK ST (2130 OAK ST)",
+    "apn": "4272009006",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2206 OAK ST",
+    "apn": "4272009008",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
     "occupancy_type": ""
   },
   {
@@ -5467,6 +5967,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2402 OAK ST",
+    "apn": "4272020028",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
     "occupancy_type": ""
   },
   {
@@ -5622,6 +6132,86 @@
   {
     "address": "2301 OAK ST",
     "apn": "4272022019",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2343 OAK ST (2345 OAK ST)",
+    "apn": "4272022034",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2343 OAK ST (2345 OAK ST)",
+    "apn": "4272022035",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2343 OAK ST (2345 OAK ST)",
+    "apn": "4272022036",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2343 OAK ST (2345 OAK ST)",
+    "apn": "4272022037",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2343 OAK ST (2345 OAK ST)",
+    "apn": "4272022038",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2343 OAK ST (2345 OAK ST)",
+    "apn": "4272022039",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2401 OAK ST",
+    "apn": "4272023001",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2443 OAK ST",
+    "apn": "4272023009",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -5910,6 +6500,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "2137 20TH ST",
+    "apn": "4273003011",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "2201 20TH ST",
     "apn": "4273003012",
     "building_type": "Soft Story",
@@ -5927,6 +6527,76 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2221 20TH ST",
+    "apn": "4273003016",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2225 20TH ST",
+    "apn": "4273003047",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2225 20TH ST",
+    "apn": "4273003048",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2225 20TH ST",
+    "apn": "4273003049",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2225 20TH ST",
+    "apn": "4273003050",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2225 20TH ST",
+    "apn": "4273003051",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2225 20TH ST",
+    "apn": "4273003052",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
     "occupancy_type": ""
   },
   {
@@ -6250,6 +6920,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "2441 20TH ST",
+    "apn": "4273019004",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "2451 20TH ST",
     "apn": "4273019006",
     "building_type": "Soft Story",
@@ -6420,6 +7100,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "2328 20TH ST",
+    "apn": "4273021013",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "2332 20TH ST",
     "apn": "4273021014",
     "building_type": "Soft Story",
@@ -6480,6 +7170,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1919 CLOVERFIELD BLVD",
+    "apn": "4274001034",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
     "address": "1925 CLOVERFIELD BLVD",
     "apn": "4274001036",
     "building_type": "Soft Story",
@@ -6517,6 +7217,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "16",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2633 KANSAS AVE",
+    "apn": "4274004044",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "11",
     "occupancy_type": ""
   },
   {
@@ -7300,6 +8010,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1847 21ST ST (2109 DELAWARE AVE)",
+    "apn": "4274009020",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "1837 20TH ST",
     "apn": "4274010013",
     "building_type": "Soft Story",
@@ -7317,6 +8037,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1837 19TH ST",
+    "apn": "4274011016",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
     "occupancy_type": ""
   },
   {
@@ -7427,6 +8157,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1842 19TH ST (1844 19TH ST)",
+    "apn": "4274012016",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
     "occupancy_type": ""
   },
   {
@@ -8200,6 +8940,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1427 17TH ST",
+    "apn": "4275011020",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "1417 17TH ST",
     "apn": "4275011022",
     "building_type": "Soft Story",
@@ -8580,6 +9330,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1115 22ND ST",
+    "apn": "4276005020",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "1143 22ND ST",
     "apn": "4276005026",
     "building_type": "Soft Story",
@@ -8620,6 +9380,56 @@
     "occupancy_type": ""
   },
   {
+    "address": "1120 23RD ST",
+    "apn": "4276005037",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1120 23RD ST",
+    "apn": "4276005038",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1120 23RD ST",
+    "apn": "4276005039",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1120 23RD ST",
+    "apn": "4276005040",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1120 23RD ST",
+    "apn": "4276005041",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "1102 22ND ST (1102 22ND ST/2120 CALIFORNIA AVE)",
     "apn": "4276006001",
     "building_type": "Soft Story",
@@ -8657,6 +9467,16 @@
     "stories_above": "",
     "stories_below": "",
     "units": "0",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1128 21ST ST",
+    "apn": "4276007007",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "3",
     "occupancy_type": ""
   },
   {
@@ -9770,6 +10590,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1230 24TH ST",
+    "apn": "4276017010",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
     "address": "1249 23RD ST",
     "apn": "4276017022",
     "building_type": "Soft Story",
@@ -10290,6 +11120,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1329 19TH ST",
+    "apn": "4276028019",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
     "address": "1307 19TH ST",
     "apn": "4276028023",
     "building_type": "Soft Story",
@@ -10340,6 +11180,26 @@
     "occupancy_type": ""
   },
   {
+    "address": "1324 19TH ST",
+    "apn": "4276029005",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1328 19TH ST",
+    "apn": "4276029006",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "1345 18TH ST",
     "apn": "4276029015",
     "building_type": "Soft Story",
@@ -10370,6 +11230,66 @@
     "occupancy_type": ""
   },
   {
+    "address": "1313 18TH ST",
+    "apn": "4276029050",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1313 18TH ST",
+    "apn": "4276029051",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1313 18TH ST",
+    "apn": "4276029052",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1313 18TH ST",
+    "apn": "4276029053",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1313 18TH ST",
+    "apn": "4276029054",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1313 18TH ST",
+    "apn": "4276029055",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "1308 19TH ST",
     "apn": "4276029900",
     "building_type": "Soft Story",
@@ -10397,6 +11317,16 @@
     "stories_above": "",
     "stories_below": "",
     "units": "0",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2522 MONTANA AVE (2520 MONTANA AVE/2524 MONTANA AVE)",
+    "apn": "4277001002",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "3",
     "occupancy_type": ""
   },
   {
@@ -10437,6 +11367,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "2",
+    "occupancy_type": ""
+  },
+  {
+    "address": "839 21ST ST (837 21ST ST)",
+    "apn": "4277004017",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
     "occupancy_type": ""
   },
   {
@@ -10520,6 +11460,66 @@
     "occupancy_type": ""
   },
   {
+    "address": "812 21ST ST",
+    "apn": "4277005004",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "822 21ST ST",
+    "apn": "4277005006",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
+    "address": "832 21ST ST",
+    "apn": "4277005008",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "840 21ST ST",
+    "apn": "4277005009",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
+    "address": "844 21ST ST",
+    "apn": "4277005010",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2002 MONTANA AVE (2002-2010 MONTANA AVE)",
+    "apn": "4277005015",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "811 20TH ST",
     "apn": "4277005017",
     "building_type": "Soft Story",
@@ -10537,6 +11537,16 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "821 20TH ST",
+    "apn": "4277005019",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
     "occupancy_type": ""
   },
   {
@@ -10710,6 +11720,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "823 19TH ST",
+    "apn": "4277006017",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "833 19TH ST",
     "apn": "4277006019",
     "building_type": "Soft Story",
@@ -10717,6 +11737,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "843 19TH ST",
+    "apn": "4277006021",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
     "occupancy_type": ""
   },
   {
@@ -10930,6 +11960,126 @@
     "occupancy_type": ""
   },
   {
+    "address": "818 20TH ST",
+    "apn": "4277006046",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "818 20TH ST",
+    "apn": "4277006047",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "818 20TH ST",
+    "apn": "4277006048",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "818 20TH ST",
+    "apn": "4277006049",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "818 20TH ST",
+    "apn": "4277006050",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "818 20TH ST",
+    "apn": "4277006052",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "819 19TH ST",
+    "apn": "4277006053",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "819 19TH ST",
+    "apn": "4277006054",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "819 19TH ST",
+    "apn": "4277006055",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "819 19TH ST",
+    "apn": "4277006056",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "819 19TH ST",
+    "apn": "4277006057",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "819 19TH ST",
+    "apn": "4277006058",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "1920 MONTANA AVE",
     "apn": "4277006067",
     "building_type": "Soft Story",
@@ -10995,6 +12145,36 @@
     "building_type": "Soft Story",
     "stories_total": "3",
     "stories_above": "3",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "811 18TH ST (813 18TH ST)",
+    "apn": "4277008062",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
+    "address": "823 18TH ST",
+    "apn": "4277008064",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "827 18TH ST",
+    "apn": "4277008065",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
     "stories_below": "0",
     "units": "6",
     "occupancy_type": ""
@@ -11130,6 +12310,86 @@
     "occupancy_type": ""
   },
   {
+    "address": "855 17TH ST (1709 IDAHO AVE)",
+    "apn": "4277008143",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "855 17TH ST (1709 IDAHO AVE)",
+    "apn": "4277008144",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "855 17TH ST (1709 IDAHO AVE)",
+    "apn": "4277008145",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "855 17TH ST (1709 IDAHO AVE)",
+    "apn": "4277008146",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "855 17TH ST (1709 IDAHO AVE)",
+    "apn": "4277008147",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "855 17TH ST (1709 IDAHO AVE)",
+    "apn": "4277008148",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "855 17TH ST (1709 IDAHO AVE)",
+    "apn": "4277008149",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1720 IDAHO AVE (902 18TH ST)",
+    "apn": "4277009001",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "1",
+    "occupancy_type": ""
+  },
+  {
     "address": "914 18TH ST",
     "apn": "4277009003",
     "building_type": "Soft Story",
@@ -11152,6 +12412,16 @@
   {
     "address": "928 18TH ST",
     "apn": "4277009006",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "948 18TH ST",
+    "apn": "4277009010",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -11350,6 +12620,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1810 IDAHO AVE (1810-1816 IDAHO AVE)",
+    "apn": "4277010012",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
     "address": "923 18TH ST",
     "apn": "4277010016",
     "building_type": "Soft Story",
@@ -11470,6 +12750,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "914 20TH ST",
+    "apn": "4277011003",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "0",
+    "occupancy_type": ""
+  },
+  {
     "address": "920 20TH ST",
     "apn": "4277011004",
     "building_type": "Soft Story",
@@ -11525,6 +12815,16 @@
     "building_type": "Soft Story",
     "stories_total": "3",
     "stories_above": "3",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "947 19TH ST",
+    "apn": "4277011022",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
     "stories_below": "0",
     "units": "6",
     "occupancy_type": ""
@@ -12790,6 +14090,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1025 19TH ST",
+    "apn": "4277025003",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "1029 19TH ST",
     "apn": "4277025004",
     "building_type": "Soft Story",
@@ -12800,6 +14110,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1047 19TH ST",
+    "apn": "4277025009",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "8",
+    "occupancy_type": ""
+  },
+  {
     "address": "1903 CALIFORNIA AVE",
     "apn": "4277025011",
     "building_type": "Soft Story",
@@ -12807,6 +14127,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "4",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1034 20TH ST",
+    "apn": "4277025016",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
     "occupancy_type": ""
   },
   {
@@ -12827,6 +14157,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "13",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1060 20TH ST",
+    "apn": "4277025023",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "19",
     "occupancy_type": ""
   },
   {
@@ -12907,6 +14247,66 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "8",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1021 19TH ST",
+    "apn": "4277025058",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1021 19TH ST",
+    "apn": "4277025059",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1021 19TH ST",
+    "apn": "4277025060",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1021 19TH ST",
+    "apn": "4277025061",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1021 19TH ST",
+    "apn": "4277025062",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1021 19TH ST",
+    "apn": "4277025063",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
     "occupancy_type": ""
   },
   {
@@ -13460,6 +14860,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "2121 MONTANA AVE (2117 MONTANA AVE)",
+    "apn": "4278030001",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
     "address": "755 21ST ST (2107 MONTANA AVE/755 21ST ST)",
     "apn": "4278030020",
     "building_type": "Soft Story",
@@ -13740,6 +15150,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1523 MONTANA AVE",
+    "apn": "4279026002",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "0",
+    "occupancy_type": ""
+  },
+  {
     "address": "1505 MONTANA AVE",
     "apn": "4279026029",
     "building_type": "Steel Moment Frame",
@@ -13860,8 +15280,28 @@
     "occupancy_type": ""
   },
   {
+    "address": "723 12TH ST",
+    "apn": "4280026021",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
     "address": "816 17TH ST (816-818 17TH ST)",
     "apn": "4281001004",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "847 16TH ST",
+    "apn": "4281001015",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -14252,6 +15692,16 @@
   {
     "address": "1139 16TH ST",
     "apn": "4281004016",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1133 16TH ST",
+    "apn": "4281004017",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -14870,6 +16320,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "848 16TH ST",
+    "apn": "4281008010",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "854 16TH ST",
     "apn": "4281008011",
     "building_type": "Soft Story",
@@ -14902,6 +16362,16 @@
   {
     "address": "833 15TH ST",
     "apn": "4281008018",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "827 15TH ST",
+    "apn": "4281008019",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -15770,6 +17240,26 @@
     "occupancy_type": ""
   },
   {
+    "address": "949 EUCLID ST",
+    "apn": "4281014013",
+    "building_type": "Soft Story",
+    "stories_total": "3",
+    "stories_above": "3",
+    "stories_below": "0",
+    "units": "16",
+    "occupancy_type": ""
+  },
+  {
+    "address": "943 EUCLID ST",
+    "apn": "4281014014",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "8",
+    "occupancy_type": ""
+  },
+  {
     "address": "909 EUCLID ST",
     "apn": "4281014023",
     "building_type": "Soft Story",
@@ -16017,6 +17507,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "848 14TH ST",
+    "apn": "4281015010",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "8",
     "occupancy_type": ""
   },
   {
@@ -16470,6 +17970,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1201 WASHINGTON AVE (1201-1207 WASHINGTON AVE)",
+    "apn": "4281017013",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
     "address": "947 12TH ST",
     "apn": "4281017015",
     "building_type": "Soft Story",
@@ -16760,6 +18270,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1122 EUCLID ST",
+    "apn": "4281019005",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
     "address": "1128 EUCLID ST",
     "apn": "4281019006",
     "building_type": "Soft Story",
@@ -16887,6 +18407,16 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "11",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1132 12TH ST",
+    "apn": "4281020007",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
     "occupancy_type": ""
   },
   {
@@ -18140,6 +19670,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "954 11TH ST",
+    "apn": "4281025011",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "958 11TH ST",
     "apn": "4281025012",
     "building_type": "Soft Story",
@@ -18397,6 +19937,16 @@
     "stories_above": "0",
     "stories_below": "0",
     "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1118 11TH ST",
+    "apn": "4281027005",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "0",
     "occupancy_type": ""
   },
   {
@@ -18667,6 +20217,16 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "11",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1140 10TH ST",
+    "apn": "4281028008",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
     "occupancy_type": ""
   },
   {
@@ -19450,6 +21010,26 @@
     "occupancy_type": ""
   },
   {
+    "address": "833 9TH ST",
+    "apn": "4281031018",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
+    "address": "813 9TH ST",
+    "apn": "4281031022",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
     "address": "820 10TH ST",
     "apn": "4281031026",
     "building_type": "Soft Story",
@@ -19502,6 +21082,16 @@
   {
     "address": "841 LINCOLN BLVD",
     "apn": "4281032015",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "823 LINCOLN BLVD",
+    "apn": "4281032019",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -19677,6 +21267,16 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1024 9TH ST",
+    "apn": "4281034007",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "11",
     "occupancy_type": ""
   },
   {
@@ -20400,6 +22000,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1215 11TH ST",
+    "apn": "4282006023",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
     "address": "1253 11TH ST",
     "apn": "4282006054",
     "building_type": "Soft Story",
@@ -20450,6 +22060,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1218 11TH ST",
+    "apn": "4282007004",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "3",
+    "occupancy_type": ""
+  },
+  {
     "address": "1234 11TH ST",
     "apn": "4282007007",
     "building_type": "Soft Story",
@@ -20457,6 +22077,16 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "11",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1221 10TH ST",
+    "apn": "4282007019",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
     "occupancy_type": ""
   },
   {
@@ -20502,6 +22132,26 @@
   {
     "address": "1249 9TH ST",
     "apn": "4282008013",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1241 9TH ST",
+    "apn": "4282008014",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1217 9TH ST",
+    "apn": "4282008019",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -20847,6 +22497,26 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "8",
+    "occupancy_type": ""
+  },
+  {
+    "address": "828 ARIZONA AVE",
+    "apn": "4282010001",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "11",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1324 9TH ST",
+    "apn": "4282010007",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
     "occupancy_type": ""
   },
   {
@@ -21820,6 +23490,26 @@
     "occupancy_type": ""
   },
   {
+    "address": "1438 15TH ST",
+    "apn": "4282021008",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1444 15TH ST",
+    "apn": "4282021009",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
     "address": "1453 14TH ST  (1409 BROADWAY)",
     "apn": "4282021013",
     "building_type": "Unreinforced Masonry",
@@ -21890,6 +23580,26 @@
     "occupancy_type": ""
   },
   {
+    "address": "1437 EUCLID ST",
+    "apn": "4282022018",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "11",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1433 EUCLID ST",
+    "apn": "4282022019",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "11",
+    "occupancy_type": ""
+  },
+  {
     "address": "1423 EUCLID ST",
     "apn": "4282022021",
     "building_type": "Soft Story",
@@ -21907,6 +23617,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "3",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1434 12TH ST",
+    "apn": "4282024008",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
     "occupancy_type": ""
   },
   {
@@ -22140,6 +23860,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1517 9TH ST",
+    "apn": "4282029016",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "1528 11TH ST",
     "apn": "4282030006",
     "building_type": "Soft Story",
@@ -22227,6 +23957,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1538 EUCLID ST",
+    "apn": "4282032008",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "11",
     "occupancy_type": ""
   },
   {
@@ -22520,6 +24260,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1513 MICHIGAN AVE",
+    "apn": "4283012022",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "1748 16TH ST",
     "apn": "4283012024",
     "building_type": "Soft Story",
@@ -22777,6 +24527,16 @@
     "stories_above": "",
     "stories_below": "",
     "units": "",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1843 9TH ST",
+    "apn": "4283021020",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
     "occupancy_type": ""
   },
   {
@@ -23070,6 +24830,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1938 EUCLID ST",
+    "apn": "4283028003",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "8",
+    "occupancy_type": ""
+  },
+  {
     "address": "1934 EUCLID ST",
     "apn": "4283028004",
     "building_type": "Soft Story",
@@ -23092,6 +24862,26 @@
   {
     "address": "1840 EUCLID ST",
     "apn": "4283028014",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1220 MICHIGAN AVE (1222) (1802 EUCLID ST)",
+    "apn": "4283028021",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "3",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1817 EUCLID ST",
+    "apn": "4283029003",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -23310,6 +25100,56 @@
     "occupancy_type": ""
   },
   {
+    "address": "909 GRANT ST",
+    "apn": "4284002042",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "909 GRANT ST",
+    "apn": "4284002043",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "909 GRANT ST",
+    "apn": "4284002044",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "909 GRANT ST",
+    "apn": "4284002045",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "909 GRANT ST",
+    "apn": "4284002046",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "835 PACIFIC ST",
     "apn": "4284003015",
     "building_type": "Soft Story",
@@ -23440,6 +25280,36 @@
     "occupancy_type": ""
   },
   {
+    "address": "1017 OCEAN PARK BLVD",
+    "apn": "4284009007",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1013 OCEAN PARK BLVD",
+    "apn": "4284009008",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "11",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1007 OCEAN PARK BLVD",
+    "apn": "4284009009",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "2519 10TH ST (2519-2525 10TH ST)",
     "apn": "4284009010",
     "building_type": "Soft Story",
@@ -23557,6 +25427,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "2",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1033 PEARL ST",
+    "apn": "4284013017",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
     "occupancy_type": ""
   },
   {
@@ -24040,6 +25920,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "2704 11TH ST",
+    "apn": "4285001017",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "6",
+    "occupancy_type": ""
+  },
+  {
     "address": "2602 11TH ST (2602-2612 11TH ST)",
     "apn": "4285001024",
     "building_type": "Soft Story",
@@ -24057,6 +25947,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "817 HILL ST",
+    "apn": "4285001033",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "14",
     "occupancy_type": ""
   },
   {
@@ -24347,6 +26247,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "9",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1003 ASHLAND AVE (1005 ASHLAND AVE)",
+    "apn": "4285012014",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "8",
     "occupancy_type": ""
   },
   {
@@ -24780,6 +26690,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "649 OCEAN PARK BLVD",
+    "apn": "4287003012",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
     "address": "650 KENSINGTON RD",
     "apn": "4287004010",
     "building_type": "Soft Story",
@@ -25097,6 +27017,26 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2520 4TH ST (2518 4TH ST)",
+    "apn": "4287008023",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
+    "address": "2522 4TH ST (2524 4TH ST)",
+    "apn": "4287008024",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "3",
     "occupancy_type": ""
   },
   {
@@ -26740,6 +28680,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "2709 4TH ST",
+    "apn": "4287021003",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "0",
+    "occupancy_type": ""
+  },
+  {
     "address": "2719 4TH ST",
     "apn": "4287021005",
     "building_type": "Soft Story",
@@ -27360,6 +29310,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "2909 6TH ST (2910 HIGHLAND AVE)",
+    "apn": "4287026041",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
+    "occupancy_type": ""
+  },
+  {
     "address": "602 ASHLAND AVE",
     "apn": "4287026042",
     "building_type": "Soft Story",
@@ -27547,6 +29507,16 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "3",
+    "occupancy_type": ""
+  },
+  {
+    "address": "631 PIER AVE",
+    "apn": "4287029016",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "4",
     "occupancy_type": ""
   },
   {
@@ -28840,6 +30810,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "703 STRAND ST",
+    "apn": "4289001026",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "5",
+    "occupancy_type": ""
+  },
+  {
     "address": "2111 7TH ST",
     "apn": "4289002011",
     "building_type": "Soft Story",
@@ -29097,6 +31077,16 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "16",
+    "occupancy_type": ""
+  },
+  {
+    "address": "612 PICO BLVD",
+    "apn": "4289003028",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
     "occupancy_type": ""
   },
   {
@@ -31820,6 +33810,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "2211 OCEAN AVE (2211-2217 OCEAN AVE)",
+    "apn": "4289022002",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "9",
+    "occupancy_type": ""
+  },
+  {
     "address": "103 STRAND ST (101-103 STRAND ST)",
     "apn": "4289022006",
     "building_type": "Soft Story",
@@ -32328,6 +34328,16 @@
     "stories_below": "",
     "units": "0",
     "occupancy_type": "Commercial"
+  },
+  {
+    "address": "1667 OCEAN AVE",
+    "apn": "4290015005",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "17",
+    "occupancy_type": ""
   },
   {
     "address": "120 COLORADO AVE",
@@ -33430,6 +35440,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "1518 7TH ST",
+    "apn": "4291023003",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
     "address": "1540 7TH ST",
     "apn": "4291023006",
     "building_type": "Soft Story",
@@ -33630,6 +35650,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "844 LINCOLN BLVD",
+    "apn": "4292001010",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
     "address": "858 LINCOLN BLVD (721-727 IDAHO AVE)",
     "apn": "4292001013",
     "building_type": "Soft Story",
@@ -33682,6 +35712,16 @@
   {
     "address": "703 WASHINGTON AVE (703 WASHINGTON AVE/957 7TH ST)",
     "apn": "4292002012",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "7",
+    "occupancy_type": ""
+  },
+  {
+    "address": "947 7TH ST",
+    "apn": "4292002014",
     "building_type": "Soft Story",
     "stories_total": "2",
     "stories_above": "2",
@@ -34170,6 +36210,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "943 6TH ST",
+    "apn": "4292007018",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
     "address": "933 6TH ST",
     "apn": "4292007020",
     "building_type": "Soft Story",
@@ -34387,6 +36437,16 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "21",
+    "occupancy_type": ""
+  },
+  {
+    "address": "847 6TH ST",
+    "apn": "4292008013",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "9",
     "occupancy_type": ""
   },
   {
@@ -34880,6 +36940,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "917 5TH ST",
+    "apn": "4292010020",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
     "address": "937 5TH ST",
     "apn": "4292010083",
     "building_type": "Soft Story",
@@ -35065,6 +37135,16 @@
     "building_type": "Soft Story",
     "stories_total": "3",
     "stories_above": "3",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "1026 6TH ST (1028 6TH ST)",
+    "apn": "4292011006",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
     "stories_below": "0",
     "units": "10",
     "occupancy_type": ""
@@ -35910,6 +37990,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "844 5TH ST",
+    "apn": "4292016009",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
     "address": "835 4TH ST",
     "apn": "4292016018",
     "building_type": "Soft Story",
@@ -36247,6 +38337,26 @@
     "stories_above": "3",
     "stories_below": "0",
     "units": "14",
+    "occupancy_type": ""
+  },
+  {
+    "address": "933 3RD ST",
+    "apn": "4292018015",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
+    "occupancy_type": ""
+  },
+  {
+    "address": "927 3RD ST",
+    "apn": "4292018016",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "10",
     "occupancy_type": ""
   },
   {
@@ -37590,6 +39700,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "918 2ND ST (918-922 2ND ST)",
+    "apn": "4292026003",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "3",
+    "occupancy_type": ""
+  },
+  {
     "address": "125 WASHINGTON AVE",
     "apn": "4292026011",
     "building_type": "Soft Story",
@@ -37607,6 +39727,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "12",
+    "occupancy_type": ""
+  },
+  {
+    "address": "923 OCEAN AVE",
+    "apn": "4292026019",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "8",
     "occupancy_type": ""
   },
   {
@@ -40730,6 +42860,16 @@
     "occupancy_type": ""
   },
   {
+    "address": "135 MONTANA AVE",
+    "apn": "4293014027",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "18",
+    "occupancy_type": ""
+  },
+  {
     "address": "757 OCEAN AVE",
     "apn": "4293014036",
     "building_type": "Soft Story",
@@ -41767,6 +43907,16 @@
     "stories_above": "2",
     "stories_below": "0",
     "units": "31",
+    "occupancy_type": ""
+  },
+  {
+    "address": "130 ALTA AVE",
+    "apn": "4293015004",
+    "building_type": "Soft Story",
+    "stories_total": "2",
+    "stories_above": "2",
+    "stories_below": "0",
+    "units": "9",
     "occupancy_type": ""
   },
   {
