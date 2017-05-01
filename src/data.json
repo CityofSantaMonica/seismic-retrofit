@@ -4332,6 +4332,18 @@
     "Priority Designation": 2
   },
   {
+    "Address": "1033 9TH ST",
+    "APN": 4281029066,
+    "Building Type": "Soft Story",
+    "Year Built": 1938,
+    "Stories Total": 3,
+    "Stories Above": 2,
+    "Stories Below": 0,
+    "Units": 10,
+    "Occupancy Type": "",
+    "Priority Designation": 2
+  },
+  {
     "Address": "1033 EUCLID ST",
     "APN": 4281013017,
     "Building Type": "Soft Story",
@@ -4418,18 +4430,6 @@
   {
     "Address": "1035 9TH ST",
     "APN": 4281029043,
-    "Building Type": "Soft Story",
-    "Year Built": 1938,
-    "Stories Total": 3,
-    "Stories Above": 2,
-    "Stories Below": 0,
-    "Units": 10,
-    "Occupancy Type": "",
-    "Priority Designation": 2
-  },
-  {
-    "Address": "1035 9TH ST",
-    "APN": 4281029066,
     "Building Type": "Soft Story",
     "Year Built": 1938,
     "Stories Total": 3,
@@ -4597,30 +4597,6 @@
   },
   {
     "Address": "1037 9TH ST",
-    "APN": 4281029048,
-    "Building Type": "Soft Story",
-    "Year Built": 1938,
-    "Stories Total": 3,
-    "Stories Above": 2,
-    "Stories Below": 0,
-    "Units": 10,
-    "Occupancy Type": "",
-    "Priority Designation": 2
-  },
-  {
-    "Address": "1037 9TH ST",
-    "APN": 4281029049,
-    "Building Type": "Soft Story",
-    "Year Built": 1938,
-    "Stories Total": 3,
-    "Stories Above": 2,
-    "Stories Below": 0,
-    "Units": 10,
-    "Occupancy Type": "",
-    "Priority Designation": 2
-  },
-  {
-    "Address": "1037 9TH ST",
     "APN": 4281029046,
     "Building Type": "Soft Story",
     "Year Built": 1938,
@@ -4634,6 +4610,30 @@
   {
     "Address": "1037 9TH ST",
     "APN": 4281029047,
+    "Building Type": "Soft Story",
+    "Year Built": 1938,
+    "Stories Total": 3,
+    "Stories Above": 2,
+    "Stories Below": 0,
+    "Units": 10,
+    "Occupancy Type": "",
+    "Priority Designation": 2
+  },
+  {
+    "Address": "1037 9TH ST",
+    "APN": 4281029048,
+    "Building Type": "Soft Story",
+    "Year Built": 1938,
+    "Stories Total": 3,
+    "Stories Above": 2,
+    "Stories Below": 0,
+    "Units": 10,
+    "Occupancy Type": "",
+    "Priority Designation": 2
+  },
+  {
+    "Address": "1037 9TH ST",
+    "APN": 4281029049,
     "Building Type": "Soft Story",
     "Year Built": 1938,
     "Stories Total": 3,
@@ -11221,30 +11221,6 @@
   },
   {
     "Address": "1237 YALE ST",
-    "APN": 4267004049,
-    "Building Type": "Soft Story",
-    "Year Built": 1974,
-    "Stories Total": 3,
-    "Stories Above": 3,
-    "Stories Below": 0,
-    "Units": 14,
-    "Occupancy Type": "",
-    "Priority Designation": 2
-  },
-  {
-    "Address": "1237 YALE ST",
-    "APN": 4267004050,
-    "Building Type": "Soft Story",
-    "Year Built": 1974,
-    "Stories Total": 3,
-    "Stories Above": 3,
-    "Stories Below": 0,
-    "Units": 14,
-    "Occupancy Type": "",
-    "Priority Designation": 2
-  },
-  {
-    "Address": "1237 YALE ST",
     "APN": 4267004047,
     "Building Type": "Soft Story",
     "Year Built": 1974,
@@ -11258,6 +11234,30 @@
   {
     "Address": "1237 YALE ST",
     "APN": 4267004048,
+    "Building Type": "Soft Story",
+    "Year Built": 1974,
+    "Stories Total": 3,
+    "Stories Above": 3,
+    "Stories Below": 0,
+    "Units": 14,
+    "Occupancy Type": "",
+    "Priority Designation": 2
+  },
+  {
+    "Address": "1237 YALE ST",
+    "APN": 4267004049,
+    "Building Type": "Soft Story",
+    "Year Built": 1974,
+    "Stories Total": 3,
+    "Stories Above": 3,
+    "Stories Below": 0,
+    "Units": 14,
+    "Occupancy Type": "",
+    "Priority Designation": 2
+  },
+  {
+    "Address": "1237 YALE ST",
+    "APN": 4267004050,
     "Building Type": "Soft Story",
     "Year Built": 1974,
     "Stories Total": 3,
@@ -11929,30 +11929,6 @@
   },
   {
     "Address": "1243 YALE ST",
-    "APN": 4267004057,
-    "Building Type": "Soft Story",
-    "Year Built": 1974,
-    "Stories Total": 3,
-    "Stories Above": 3,
-    "Stories Below": 0,
-    "Units": 14,
-    "Occupancy Type": "",
-    "Priority Designation": 2
-  },
-  {
-    "Address": "1243 YALE ST",
-    "APN": 4267004059,
-    "Building Type": "Soft Story",
-    "Year Built": 1974,
-    "Stories Total": 3,
-    "Stories Above": 3,
-    "Stories Below": 0,
-    "Units": 14,
-    "Occupancy Type": "",
-    "Priority Designation": 2
-  },
-  {
-    "Address": "1243 YALE ST",
     "APN": 4267004054,
     "Building Type": "Soft Story",
     "Year Built": 1974,
@@ -11989,7 +11965,31 @@
   },
   {
     "Address": "1243 YALE ST",
+    "APN": 4267004057,
+    "Building Type": "Soft Story",
+    "Year Built": 1974,
+    "Stories Total": 3,
+    "Stories Above": 3,
+    "Stories Below": 0,
+    "Units": 14,
+    "Occupancy Type": "",
+    "Priority Designation": 2
+  },
+  {
+    "Address": "1243 YALE ST",
     "APN": 4267004058,
+    "Building Type": "Soft Story",
+    "Year Built": 1974,
+    "Stories Total": 3,
+    "Stories Above": 3,
+    "Stories Below": 0,
+    "Units": 14,
+    "Occupancy Type": "",
+    "Priority Designation": 2
+  },
+  {
+    "Address": "1243 YALE ST",
+    "APN": 4267004059,
     "Building Type": "Soft Story",
     "Year Built": 1974,
     "Stories Total": 3,
@@ -13537,42 +13537,6 @@
   },
   {
     "Address": "1315 STANFORD ST",
-    "APN": 4267012086,
-    "Building Type": "Soft Story",
-    "Year Built": 1968,
-    "Stories Total": 2,
-    "Stories Above": 2,
-    "Stories Below": 0,
-    "Units": 14,
-    "Occupancy Type": "",
-    "Priority Designation": 5
-  },
-  {
-    "Address": "1315 STANFORD ST",
-    "APN": 4267012088,
-    "Building Type": "Soft Story",
-    "Year Built": 1968,
-    "Stories Total": 2,
-    "Stories Above": 2,
-    "Stories Below": 0,
-    "Units": 14,
-    "Occupancy Type": "",
-    "Priority Designation": 5
-  },
-  {
-    "Address": "1315 STANFORD ST",
-    "APN": 4267012091,
-    "Building Type": "Soft Story",
-    "Year Built": 1968,
-    "Stories Total": 2,
-    "Stories Above": 2,
-    "Stories Below": 0,
-    "Units": 14,
-    "Occupancy Type": "",
-    "Priority Designation": 5
-  },
-  {
-    "Address": "1315 STANFORD ST",
     "APN": 4267012085,
     "Building Type": "Soft Story",
     "Year Built": 1968,
@@ -13585,7 +13549,31 @@
   },
   {
     "Address": "1315 STANFORD ST",
+    "APN": 4267012086,
+    "Building Type": "Soft Story",
+    "Year Built": 1968,
+    "Stories Total": 2,
+    "Stories Above": 2,
+    "Stories Below": 0,
+    "Units": 14,
+    "Occupancy Type": "",
+    "Priority Designation": 5
+  },
+  {
+    "Address": "1315 STANFORD ST",
     "APN": 4267012087,
+    "Building Type": "Soft Story",
+    "Year Built": 1968,
+    "Stories Total": 2,
+    "Stories Above": 2,
+    "Stories Below": 0,
+    "Units": 14,
+    "Occupancy Type": "",
+    "Priority Designation": 5
+  },
+  {
+    "Address": "1315 STANFORD ST",
+    "APN": 4267012088,
     "Building Type": "Soft Story",
     "Year Built": 1968,
     "Stories Total": 2,
@@ -13610,6 +13598,18 @@
   {
     "Address": "1315 STANFORD ST",
     "APN": 4267012090,
+    "Building Type": "Soft Story",
+    "Year Built": 1968,
+    "Stories Total": 2,
+    "Stories Above": 2,
+    "Stories Below": 0,
+    "Units": 14,
+    "Occupancy Type": "",
+    "Priority Designation": 5
+  },
+  {
+    "Address": "1315 STANFORD ST",
+    "APN": 4267012091,
     "Building Type": "Soft Story",
     "Year Built": 1968,
     "Stories Total": 2,
@@ -13765,30 +13765,6 @@
   },
   {
     "Address": "1317 STANFORD ST",
-    "APN": 4267012095,
-    "Building Type": "Soft Story",
-    "Year Built": 1968,
-    "Stories Total": 2,
-    "Stories Above": 2,
-    "Stories Below": 0,
-    "Units": 14,
-    "Occupancy Type": "",
-    "Priority Designation": 5
-  },
-  {
-    "Address": "1317 STANFORD ST",
-    "APN": 4267012098,
-    "Building Type": "Soft Story",
-    "Year Built": 1968,
-    "Stories Total": 2,
-    "Stories Above": 2,
-    "Stories Below": 0,
-    "Units": 14,
-    "Occupancy Type": "",
-    "Priority Designation": 5
-  },
-  {
-    "Address": "1317 STANFORD ST",
     "APN": 4267012093,
     "Building Type": "Soft Story",
     "Year Built": 1968,
@@ -13813,6 +13789,18 @@
   },
   {
     "Address": "1317 STANFORD ST",
+    "APN": 4267012095,
+    "Building Type": "Soft Story",
+    "Year Built": 1968,
+    "Stories Total": 2,
+    "Stories Above": 2,
+    "Stories Below": 0,
+    "Units": 14,
+    "Occupancy Type": "",
+    "Priority Designation": 5
+  },
+  {
+    "Address": "1317 STANFORD ST",
     "APN": 4267012096,
     "Building Type": "Soft Story",
     "Year Built": 1968,
@@ -13826,6 +13814,18 @@
   {
     "Address": "1317 STANFORD ST",
     "APN": 4267012097,
+    "Building Type": "Soft Story",
+    "Year Built": 1968,
+    "Stories Total": 2,
+    "Stories Above": 2,
+    "Stories Below": 0,
+    "Units": 14,
+    "Occupancy Type": "",
+    "Priority Designation": 5
+  },
+  {
+    "Address": "1317 STANFORD ST",
+    "APN": 4267012098,
     "Building Type": "Soft Story",
     "Year Built": 1968,
     "Stories Total": 2,
@@ -35257,7 +35257,7 @@
   },
   {
     "Address": "2615 6TH ST",
-    "APN": 4287014037,
+    "APN": 4287014033,
     "Building Type": "Soft Story",
     "Year Built": 1976,
     "Stories Total": 3,
@@ -35269,7 +35269,7 @@
   },
   {
     "Address": "2615 6TH ST",
-    "APN": 4287014033,
+    "APN": 4287014037,
     "Building Type": "Soft Story",
     "Year Built": 1976,
     "Stories Total": 3,
@@ -35629,7 +35629,7 @@
   },
   {
     "Address": "2621 6TH ST",
-    "APN": 4287014046,
+    "APN": 4287014045,
     "Building Type": "Soft Story",
     "Year Built": 1965,
     "Stories Total": 2,
@@ -35641,7 +35641,7 @@
   },
   {
     "Address": "2621 6TH ST",
-    "APN": 4287014045,
+    "APN": 4287014046,
     "Building Type": "Soft Story",
     "Year Built": 1965,
     "Stories Total": 2,
@@ -48361,30 +48361,6 @@
   },
   {
     "Address": "822 19TH ST",
-    "APN": 4277008074,
-    "Building Type": "Soft Story",
-    "Year Built": 1974,
-    "Stories Total": 3,
-    "Stories Above": 2,
-    "Stories Below": 0,
-    "Units": 10,
-    "Occupancy Type": "",
-    "Priority Designation": 2
-  },
-  {
-    "Address": "822 19TH ST",
-    "APN": 4277008078,
-    "Building Type": "Soft Story",
-    "Year Built": 1974,
-    "Stories Total": 3,
-    "Stories Above": 2,
-    "Stories Below": 0,
-    "Units": 10,
-    "Occupancy Type": "",
-    "Priority Designation": 2
-  },
-  {
-    "Address": "822 19TH ST",
     "APN": 4277008072,
     "Building Type": "Soft Story",
     "Year Built": 1974,
@@ -48397,7 +48373,31 @@
   },
   {
     "Address": "822 19TH ST",
+    "APN": 4277008074,
+    "Building Type": "Soft Story",
+    "Year Built": 1974,
+    "Stories Total": 3,
+    "Stories Above": 2,
+    "Stories Below": 0,
+    "Units": 10,
+    "Occupancy Type": "",
+    "Priority Designation": 2
+  },
+  {
+    "Address": "822 19TH ST",
     "APN": 4277008076,
+    "Building Type": "Soft Story",
+    "Year Built": 1974,
+    "Stories Total": 3,
+    "Stories Above": 2,
+    "Stories Below": 0,
+    "Units": 10,
+    "Occupancy Type": "",
+    "Priority Designation": 2
+  },
+  {
+    "Address": "822 19TH ST",
+    "APN": 4277008078,
     "Building Type": "Soft Story",
     "Year Built": 1974,
     "Stories Total": 3,
@@ -55741,18 +55741,6 @@
   },
   {
     "Address": "954 20TH ST",
-    "APN": 4277011046,
-    "Building Type": "Soft Story",
-    "Year Built": 1974,
-    "Stories Total": 3,
-    "Stories Above": 3,
-    "Stories Below": 0,
-    "Units": 10,
-    "Occupancy Type": "",
-    "Priority Designation": 2
-  },
-  {
-    "Address": "954 20TH ST",
     "APN": 4277011042,
     "Building Type": "Soft Story",
     "Year Built": 1974,
@@ -55766,6 +55754,18 @@
   {
     "Address": "954 20TH ST",
     "APN": 4277011044,
+    "Building Type": "Soft Story",
+    "Year Built": 1974,
+    "Stories Total": 3,
+    "Stories Above": 3,
+    "Stories Below": 0,
+    "Units": 10,
+    "Occupancy Type": "",
+    "Priority Designation": 2
+  },
+  {
+    "Address": "954 20TH ST",
+    "APN": 4277011046,
     "Building Type": "Soft Story",
     "Year Built": 1974,
     "Stories Total": 3,
